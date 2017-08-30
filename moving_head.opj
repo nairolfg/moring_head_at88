@@ -1,0 +1,148 @@
+(ExpressProject "moving_head"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Amplifier.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\AMPLIFIER.OLBlck"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Arithmetic.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\ARITHMETIC.OLBlck"
+        (Type "Schematic Library"))
+      (File
+         "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\BusDriverTransceiver.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\capsym.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Connector.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\CONNECTOR.OLBlck"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Counter.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Discrete.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\DISCRETE.OLBlck"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\DRAM.OLB"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\ElectroMechanical.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Filter.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Gate.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\GATE.OLBlck"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Mechanical.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\MicroController.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\MicroProcessor.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\MICROPROCESSOR.OLBlck"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Misc.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Misc2.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Misc3.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\MiscLinear.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\OPAmp.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\OPAMP.OLBlck"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Regulator.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\Transistor.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_16.6\tools\capture\LIBRARY\TRANSISTOR.OLBlck"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\moving_head.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "C:\Cadence\Projects\moving_head_at88\moving_head_at88.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    ("Allegro Netlist Input Board File"
+       "C:\Cadence\Projects\moving_head_at88\moving_head_at88.brd"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (Atmega88
+      (FullPartName "Atmega88.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\MICROPROCESSOR.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET N"
+      (FullPartName "MOSFET N.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\moving_head.dsn")
+      (Path "Design Resources" ".\moving_head.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources" ".\moving_head.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -13 -58 0 258 0 489"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -13 -58 98 2395 98 1025")
+        (Scroll "704 1057")
+        (Zoom "350")
+        (Occurrence "/"))
+      (Path "C:\CADENCE\PROJECTS\MOVING_HEAD_AT88\MOVING_HEAD.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "nairo")
+  (ISPCBBASICLICENSE "false"))

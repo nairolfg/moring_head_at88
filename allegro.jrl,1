@@ -1,0 +1,512 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Wed Aug 30 17:58:58 2017
+\t (00:00:02)         Host=DESKTOP-PHA2IGQ User=nairo Pid=11952 CPUs=4
+\t (00:00:02) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd
+\i (00:00:03) trapsize 16083
+\i (00:00:03) trapsize 15639
+\i (00:00:04) trapsize 16160
+\i (00:00:04) trapsize 17323
+\i (00:00:04) trapsize 13639
+\i (00:00:04) trapsize 17323
+\i (00:00:04) generaledit 
+\i (00:00:12) define grid 
+\t (00:00:12) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:12) generaledit 
+\i (00:00:14) setwindow form.grid
+\i (00:00:14) FORM grid done  
+\i (00:00:16) setwindow pcb
+\i (00:00:16) prmed 
+\i (00:00:18) setwindow form.prmedit
+\i (00:00:18) FORM prmedit display_grid YES 
+\t (00:00:18) Grids are drawn 400.00, 400.00 apart for enhanced viewability.
+\i (00:00:20) FORM prmedit view_grids_button  
+\t (00:00:20) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:22) setwindow form.grid
+\i (00:00:22) FORM grid done  
+\i (00:00:23) setwindow form.prmedit
+\i (00:00:23) FORM prmedit design  
+\i (00:00:25) FORM prmedit done  
+\i (00:00:25) setwindow pcb
+\i (00:00:25) generaledit 
+\i (00:00:26) place manual 
+\i (00:00:32) setwindow form.plc_manual
+\i (00:00:32) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\t (00:00:32) Placing U1 / 78HT2_TO252AA_78HT2 / TO252AA on Top.
+\i (00:00:32) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:00:34) FORM plc_manual tree 'MULTISEL NO' U1 'Components by refdes' 
+\i (00:00:34) FORM plc_manual tree 'MULTISEL YES' U2 'Components by refdes' 
+\w (00:00:34) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:34) Placing U2 / 75176_0_SO8_75176 / SO8 on Top.
+\i (00:00:34) FORM plc_manual tree  U2 'Components by refdes' 
+\i (00:00:36) FORM plc_manual tree 'MULTISEL NO' U2 'Components by refdes' 
+\i (00:00:46) FORM plc_manual tree 'MULTISEL YES' U3 'Components by refdes' 
+\t (00:00:46) Placing U3 / 78HT2_TO252AA_78HT2 / TO252AA on Top.
+\i (00:00:46) FORM plc_manual tree  U3 'Components by refdes' 
+\i (00:00:47) FORM plc_manual tree 'MULTISEL NO' U3 'Components by refdes' 
+\i (00:00:47) FORM plc_manual tree 'MULTISEL YES' U4 'Components by refdes' 
+\t (00:00:47) Placing U4 / 78HT2_TO252AA_78HT2 / TO252AA on Top.
+\i (00:00:47) FORM plc_manual tree  U4 'Components by refdes' 
+\i (00:00:48) FORM plc_manual tree 'MULTISEL NO' U4 'Components by refdes' 
+\i (00:00:48) FORM plc_manual tree 'MULTISEL YES' U5 'Components by refdes' 
+\w (00:00:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:48) Placing U5 / ATMEGA88_3_TQFP32_ATMEGA88 / TQFP32 on Top.
+\i (00:00:48) FORM plc_manual tree  U5 'Components by refdes' 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) pick grid 15971.65 10913.39
+\t (00:00:52) last pick:  16000.00  10900.00
+\i (00:00:53) setwindow form.plc_manual
+\i (00:00:53) FORM plc_manual done  
+\i (00:00:53) setwindow pcb
+\i (00:00:53) generaledit 
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 16525.98 10255.12
+\i (00:00:54) trapsize 8661
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 16629.92 10272.44
+\i (00:00:54) trapsize 4331
+\i (00:00:54) zoom in 1 
+\i (00:00:54) setwindow pcb
+\i (00:00:54) zoom in 16664.57 10289.76
+\i (00:00:54) trapsize 2165
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 16660.24 10302.75
+\i (00:00:55) trapsize 1083
+\i (00:00:55) drag_start grid 16749.02 10398.03
+\i (00:00:56) drag_stop 17039.18 10116.54
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 16541.15 10268.11
+\i (00:00:57) trapsize 2165
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in 15991.15 10952.36
+\i (00:00:58) trapsize 1083
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in 16027.96 10935.04
+\i (00:00:58) trapsize 541
+\i (00:00:59) zoom out 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom out 16032.29 10924.22
+\i (00:00:59) trapsize 1083
+\i (00:01:02) drag_start grid 16759.85 10597.25
+\i (00:01:02) drag_stop 17294.69 10393.71
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 16764.18 10640.56
+\i (00:01:04) trapsize 2165
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 16755.52 10601.58
+\i (00:01:04) trapsize 4331
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 16729.53 10549.62
+\i (00:01:04) trapsize 8661
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 15724.81 11034.65
+\i (00:01:05) trapsize 4331
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 15768.12 11000.01
+\i (00:01:05) trapsize 2165
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 15768.12 10952.38
+\i (00:01:05) trapsize 1083
+\i (00:01:13) place manual 
+\i (00:01:17) setwindow form.plc_manual
+\i (00:01:17) FORM plc_manual tree 'MULTISEL YES' J2 'Components by refdes' 
+\t (00:01:17) Placing J2 / JUMPER10_FGDIP10_ADRESS / FGDIP10 on Top.
+\i (00:01:17) FORM plc_manual tree  J2 'Components by refdes' 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) pick grid 16751.19 10991.36
+\t (00:01:34) last pick:  16800.00  11000.00
+\i (00:01:48) setwindow form.plc_manual
+\i (00:01:48) FORM plc_manual tree 'MULTISEL YES' Y1 'Components by refdes' 
+\w (00:01:48) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:48) Placing Y1 / CRYSTAL_FGXTAL_8MHZ / FGXTAL on Top.
+\i (00:01:48) FORM plc_manual tree  Y1 'Components by refdes' 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) pick grid 15848.24 10471.67
+\t (00:01:52) last pick:  15800.00  10500.00
+\i (00:01:57) setwindow form.plc_manual
+\i (00:01:57) FORM plc_manual tree 'MULTISEL YES' C11 'Components by refdes' 
+\w (00:01:57) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:01:57) Placing C11 / CAP NP_FG0805C_100NF / FG0805C on Top.
+\i (00:01:57) FORM plc_manual tree  C11 'Components by refdes' 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) pick grid 15536.43 10599.43
+\t (00:01:59) last pick:  15500.00  10600.00
+\i (00:02:00) setwindow form.plc_manual
+\i (00:02:00) FORM plc_manual tree 'MULTISEL YES' C10 'Components by refdes' 
+\w (00:02:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:01) Placing C10 / CAP_FGCAP6377_100UF / FGCAP6377 on Top.
+\i (00:02:01) FORM plc_manual tree  C10 'Components by refdes' 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) pick grid 15144.50 10564.78
+\t (00:02:04) last pick:  15100.00  10600.00
+\i (00:02:04) pick grid dbl 15083.87 10588.60
+\t (00:02:04) last pick:  15100.00  10600.00
+\t (00:02:04) Moving C10 / CAP_FGCAP6377_100UF / FGCAP6377.
+\t (00:02:04) last pick:  15100.00  10600.00
+\i (00:02:07) setwindow form.plc_manual
+\i (00:02:07) FORM plc_manual tree 'MULTISEL YES' C9 'Components by refdes' 
+\t (00:02:07) Placing C9 / CAP NP_FG0805C_100NF / FG0805C on Top.
+\i (00:02:07) FORM plc_manual tree  C9 'Components by refdes' 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) pick grid 16558.47 10547.46
+\t (00:02:10) last pick:  16600.00  10500.00
+\i (00:02:11) setwindow form.plc_manual
+\i (00:02:11) FORM plc_manual tree 'MULTISEL YES' C8 'Components by refdes' 
+\t (00:02:11) Placing C8 / CAP_FGCAP6377_100UF / FGCAP6377 on Top.
+\i (00:02:11) FORM plc_manual tree  C8 'Components by refdes' 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) pick grid 16746.86 10662.22
+\t (00:02:17) last pick:  16700.00  10700.00
+\i (00:02:18) pick grid 16933.08 10512.81
+\t (00:02:18) last pick:  16900.00  10500.00
+\i (00:02:19) pick grid 16471.86 10919.90
+\t (00:02:19) last pick:  16500.00  10900.00
+\i (00:02:20) pick grid 16885.44 10430.53
+\t (00:02:20) last pick:  16900.00  10400.00
+\i (00:02:20) pick grid 16636.43 10491.16
+\t (00:02:20) last pick:  16600.00  10500.00
+\t (00:02:20) Moving C9 / CAP NP_FG0805C_100NF / FG0805C.
+\t (00:02:20) last pick:  16600.00  10500.00
+\i (00:02:22) pick grid 16606.11 10452.18
+\t (00:02:22) last pick:  16600.00  10500.00
+\i (00:02:23) pick grid 16937.41 10634.07
+\t (00:02:23) last pick:  16900.00  10600.00
+\i (00:02:26) setwindow form.plc_manual
+\i (00:02:26) FORM plc_manual tree 'MULTISEL YES' C7 'Components by refdes' 
+\t (00:02:26) Placing C7 / CAP NP_FG0805C_100NF / FG0805C on Top.
+\i (00:02:26) FORM plc_manual tree  C7 'Components by refdes' 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) pick grid 15445.48 11348.64
+\t (00:02:27) last pick:  15400.00  11300.00
+\i (00:02:28) setwindow form.plc_manual
+\i (00:02:28) FORM plc_manual tree 'MULTISEL YES' C6 'Components by refdes' 
+\t (00:02:28) Placing C6 / CAP_FGCAP6377_100UF / FGCAP6377 on Top.
+\i (00:02:28) FORM plc_manual tree  C6 'Components by refdes' 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) pick grid 15549.42 11454.74
+\t (00:02:29) last pick:  15500.00  11500.00
+\i (00:02:31) setwindow form.plc_manual
+\i (00:02:31) FORM plc_manual tree  C2 'Components by refdes' 
+\i (00:02:32) FORM plc_manual tree 'MULTISEL YES' C2 'Components by refdes' 
+\t (00:02:32) Placing C2 / CAP NP_FG0805C_27PF / FG0805C on Top.
+\i (00:02:35) setwindow pcb
+\i (00:02:35) pick grid 16350.60 10486.83
+\t (00:02:35) last pick:  16400.00  10500.00
+\i (00:02:37) setwindow form.plc_manual
+\i (00:02:37) FORM plc_manual tree 'MULTISEL YES' C1 'Components by refdes' 
+\t (00:02:37) Placing C1 / CAP NP_FG0805C_27PF / FG0805C on Top.
+\i (00:02:37) FORM plc_manual tree  C1 'Components by refdes' 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) pick grid 15631.70 10476.00
+\t (00:02:38) last pick:  15600.00  10500.00
+\i (00:02:57) setwindow form.plc_manual
+\i (00:02:57) FORM plc_manual tree 'MULTISEL YES' J1 'Components by refdes' 
+\t (00:02:57) Placing J1 / CON2_JUMPER2_POWER / JUMPER2 on Top.
+\i (00:02:57) FORM plc_manual tree  J1 'Components by refdes' 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) pick grid 15358.87 11149.43
+\t (00:02:59) last pick:  15400.00  11100.00
+\i (00:03:02) zoom out 1 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom out 15625.21 10984.86
+\i (00:03:02) trapsize 2165
+\i (00:03:03) pick grid 15889.38 11487.22
+\t (00:03:03) last pick:  15900.00  11500.00
+\i (00:03:04) pick grid 17279.53 11097.46
+\t (00:03:04) last pick:  17300.00  11100.00
+\i (00:03:07) pick grid 16699.22 10746.67
+\t (00:03:07) last pick:  16700.00  10700.00
+\t (00:03:07) Moving C8 / CAP_FGCAP6377_100UF / FGCAP6377.
+\t (00:03:07) last pick:  16700.00  10700.00
+\i (00:03:09) pick grid 17842.52 10807.30
+\t (00:03:09) last pick:  17800.00  10800.00
+\i (00:03:10) pick grid 16621.27 10517.14
+\t (00:03:10) last pick:  16600.00  10500.00
+\t (00:03:10) Moving C9 / CAP NP_FG0805C_100NF / FG0805C.
+\t (00:03:10) last pick:  16600.00  10500.00
+\i (00:03:11) pick grid 17820.87 10465.17
+\t (00:03:11) last pick:  17800.00  10500.00
+\i (00:03:12) pick grid 16941.74 10110.06
+\t (00:03:12) last pick:  16900.00  10100.00
+\i (00:03:13) pick grid 15958.67 10486.83
+\t (00:03:13) last pick:  16000.00  10500.00
+\t (00:03:13) Moving Y1 / CRYSTAL_FGXTAL_8MHZ / FGXTAL.
+\t (00:03:13) last pick:  15800.00  10500.00
+\i (00:03:14) pick grid 15945.67 9932.50
+\t (00:03:14) last pick:  15900.00  9900.00
+\i (00:03:14) pick grid dbl 15937.01 9945.49
+\t (00:03:14) last pick:  15900.00  9900.00
+\t (00:03:14) Moving Y1 / CRYSTAL_FGXTAL_8MHZ / FGXTAL.
+\t (00:03:14) last pick:  15900.00  9900.00
+\i (00:03:15) pick grid 15945.67 9923.83
+\t (00:03:15) last pick:  15900.00  9900.00
+\i (00:03:16) pick grid 16430.71 10495.49
+\t (00:03:16) last pick:  16400.00  10500.00
+\t (00:03:16) Moving C2 / CAP NP_FG0805C_27PF / FG0805C.
+\t (00:03:16) last pick:  16400.00  10500.00
+\i (00:03:17) pick grid 16547.64 9928.17
+\t (00:03:17) last pick:  16500.00  9900.00
+\i (00:03:18) pick grid 15638.19 10486.83
+\t (00:03:18) last pick:  15600.00  10500.00
+\t (00:03:18) Moving C1 / CAP NP_FG0805C_27PF / FG0805C.
+\t (00:03:18) last pick:  15600.00  10500.00
+\i (00:03:19) pick grid 15551.58 9945.49
+\t (00:03:19) last pick:  15600.00  9900.00
+\i (00:03:21) pick grid 15105.52 10647.06
+\t (00:03:21) last pick:  15100.00  10600.00
+\t (00:03:21) Moving C10 / CAP_FGCAP6377_100UF / FGCAP6377.
+\t (00:03:21) last pick:  15100.00  10600.00
+\i (00:03:22) pick grid 14338.98 10066.75
+\t (00:03:22) last pick:  14300.00  10100.00
+\i (00:03:22) pick grid 15521.27 10603.76
+\t (00:03:22) last pick:  15500.00  10600.00
+\t (00:03:22) Moving C11 / CAP NP_FG0805C_100NF / FG0805C.
+\t (00:03:22) last pick:  15500.00  10600.00
+\i (00:03:25) pick grid 14278.35 9845.88
+\t (00:03:25) last pick:  14300.00  9800.00
+\i (00:03:26) pick grid 15456.30 11106.12
+\t (00:03:26) last pick:  15500.00  11100.00
+\t (00:03:26) Moving J1 / CON2_JUMPER2_POWER / JUMPER2.
+\t (00:03:26) last pick:  15400.00  11100.00
+\i (00:03:27) pick grid 15057.88 11989.58
+\t (00:03:27) last pick:  15100.00  12000.00
+\i (00:03:28) pick grid 15109.85 11006.51
+\t (00:03:28) last pick:  15100.00  11000.00
+\i (00:03:31) setwindow form.plc_manual
+\i (00:03:31) FORM plc_manual tree 'MULTISEL YES' U1 'Components by refdes' 
+\t (00:03:31) Placing U1 / 78HT2_TO252AA_78HT2 / TO252AA on Top.
+\i (00:03:31) FORM plc_manual tree  U1 'Components by refdes' 
+\i (00:03:34) setwindow pcb
+\i (00:03:34) pick grid 15417.33 12045.88
+\t (00:03:34) last pick:  15400.00  12000.00
+\i (00:03:35) pick grid 15144.49 10980.53
+\t (00:03:35) last pick:  15100.00  11000.00
+\i (00:03:36) pick grid 15092.52 11608.48
+\t (00:03:36) last pick:  15100.00  11600.00
+\i (00:03:45) pick grid 15577.56 10443.52
+\t (00:03:45) last pick:  15600.00  10400.00
+\i (00:03:46) pick grid 15490.95 11612.81
+\t (00:03:46) last pick:  15500.00  11600.00
+\t (00:03:46) Moving C6 / CAP_FGCAP6377_100UF / FGCAP6377.
+\t (00:03:46) last pick:  15500.00  11500.00
+\i (00:03:47) pick grid 15815.75 11963.60
+\t (00:03:47) last pick:  15800.00  12000.00
+\i (00:03:48) pick grid 15417.33 11313.99
+\t (00:03:48) last pick:  15400.00  11300.00
+\t (00:03:48) Moving C7 / CAP NP_FG0805C_100NF / FG0805C.
+\t (00:03:48) last pick:  15400.00  11300.00
+\i (00:03:49) pick grid 15789.77 12249.43
+\t (00:03:49) last pick:  15800.00  12200.00
+\i (00:03:50) pick grid 15352.37 11032.50
+\t (00:03:50) last pick:  15400.00  11000.00
+\i (00:03:53) pick grid 16755.52 11643.13
+\t (00:03:53) last pick:  16800.00  11600.00
+\t (00:03:53) Moving J2 / JUMPER10_FGDIP10_ADRESS / FGDIP10.
+\t (00:03:53) last pick:  16800.00  11000.00
+\i (00:04:01) prepopup 16811.82 10928.56
+\i (00:04:03) rotate 
+\t (00:04:03) Spin the element(s).
+\i (00:04:03) iangle 90.000
+\t (00:04:03) last angle:  90.000 Degrees
+\i (00:04:07) prepopup 17374.81 10815.96
+\i (00:04:08) rotate 
+\t (00:04:08) Spin the element(s).
+\i (00:04:08) iangle 90.000
+\t (00:04:08) last angle:  90.000 Degrees
+\i (00:04:11) pick grid 17119.30 11244.70
+\t (00:04:11) last pick:  17100.00  11200.00
+\i (00:04:13) pick grid 16816.15 11075.80
+\t (00:04:13) last pick:  16800.00  11100.00
+\t (00:04:13) Moving J2 / JUMPER10_FGDIP10_ADRESS / FGDIP10.
+\t (00:04:13) last pick:  17100.00  11200.00
+\i (00:04:15) pick grid 17617.33 11643.13
+\t (00:04:15) last pick:  17600.00  11600.00
+\i (00:04:17) pick grid 17140.95 10967.54
+\t (00:04:17) last pick:  17100.00  11000.00
+\i (00:04:17) pick grid 17400.79 11413.60
+\t (00:04:17) last pick:  17400.00  11400.00
+\t (00:04:17) Moving J2 / JUMPER10_FGDIP10_ADRESS / FGDIP10.
+\t (00:04:17) last pick:  17600.00  11600.00
+\i (00:04:20) pick grid 17452.76 11461.24
+\t (00:04:20) last pick:  17500.00  11500.00
+\i (00:04:21) pick grid 17361.82 11322.65
+\t (00:04:21) last pick:  17400.00  11300.00
+\t (00:04:21) Moving J2 / JUMPER10_FGDIP10_ADRESS / FGDIP10.
+\t (00:04:21) last pick:  17500.00  11500.00
+\i (00:04:23) pick grid 17500.40 11539.19
+\t (00:04:23) last pick:  17500.00  11500.00
+\i (00:04:23) pick grid dbl 17452.76 11482.89
+\t (00:04:23) last pick:  17500.00  11500.00
+\t (00:04:23) Moving J2 / JUMPER10_FGDIP10_ADRESS / FGDIP10.
+\t (00:04:23) last pick:  17500.00  11500.00
+\i (00:04:25) pick grid 17539.38 11539.19
+\t (00:04:25) last pick:  17500.00  11500.00
+\i (00:04:26) pick grid 18050.40 11669.11
+\t (00:04:26) last pick:  18100.00  11700.00
+\i (00:04:27) setwindow form.plc_manual
+\i (00:04:27) FORM plc_manual done  
+\i (00:04:27) setwindow pcb
+\i (00:04:27) generaledit 
+\i (00:04:36) prepopup 17348.82 11344.31
+\i (00:04:36) prepopup 17348.82 11344.31
+\i (00:04:40) pop dyn_option_select @:@Spin 
+\i (00:04:40) spin 
+\t (00:04:41) Element has no origin, using pick.
+\i (00:04:43) iangle 0.000
+\t (00:04:43) last angle:  90.000 Degrees
+\i (00:04:43) generaledit 
+\i (00:04:44) pick grid 18033.08 11439.58
+\t (00:04:44) last pick:  18000.00  11400.00
+\i (00:04:46) prepopup 17205.91 11339.98
+\i (00:04:48) pop dyn_option_select @:@Spin 
+\i (00:04:48) spin 
+\t (00:04:48) Element has no origin, using pick.
+\i (00:04:51) iangle -360.000
+\t (00:04:51) last angle:  90.000 Degrees
+\i (00:04:51) generaledit 
+\i (00:04:52) prepopup 17266.54 11331.32
+\i (00:04:55) pop dyn_option_select @:@Spin 
+\i (00:04:55) spin 
+\t (00:04:55) Element has no origin, using pick.
+\i (00:04:57) iangle 0.000
+\t (00:04:57) last angle:  90.000 Degrees
+\i (00:04:57) generaledit 
+\i (00:04:58) pick grid 17846.86 11452.57
+\t (00:04:58) last pick:  17800.00  11500.00
+\i (00:04:59) pick grid 17651.97 11075.80
+\t (00:04:59) last pick:  17700.00  11100.00
+\i (00:05:00) pick grid 17387.80 11305.33
+\t (00:05:00) last pick:  17400.00  11300.00
+\i (00:05:01) prepopup 17322.84 11313.99
+\i (00:05:03) pop dyn_option_select @:@Spin 
+\i (00:05:03) spin 
+\t (00:05:03) Element has no origin, using pick.
+\i (00:05:04) iangle -360.000
+\t (00:05:04) last angle:  90.000 Degrees
+\i (00:05:04) generaledit 
+\i (00:05:04) pick grid 17768.90 11370.29
+\t (00:05:04) last pick:  17800.00  11400.00
+\i (00:05:05) pick grid 17309.85 11352.97
+\t (00:05:05) last pick:  17300.00  11400.00
+\i (00:05:07) prepopup 17249.22 11301.00
+\i (00:05:09) pop dyn_option_select @:@Spin 
+\i (00:05:09) spin 
+\t (00:05:09) Element has no origin, using pick.
+\i (00:05:10) iangle -360.000
+\t (00:05:10) last angle:  90.000 Degrees
+\i (00:05:10) generaledit 
+\i (00:05:11) pick grid 18180.32 11352.97
+\t (00:05:11) last pick:  18200.00  11400.00
+\i (00:05:12) pick grid 17470.08 11469.90
+\t (00:05:12) last pick:  17500.00  11500.00
+\i (00:05:13) pick grid 17409.45 11448.24
+\t (00:05:13) last pick:  17400.00  11400.00
+\i (00:05:14) pick grid 17244.89 10439.19
+\t (00:05:14) last pick:  17200.00  10400.00
+\i (00:05:15) pick grid dbl 17244.89 10439.19
+\t (00:05:15) last pick:  17200.00  10400.00
+\i (00:05:16) pick grid 16218.51 9962.81
+\t (00:05:16) last pick:  16200.00  10000.00
+\i (00:05:17) pick grid 16513.00 10309.27
+\t (00:05:17) last pick:  16500.00  10300.00
+\i (00:05:22) place manual 
+\i (00:05:23) pick grid 17370.48 11339.98
+\t (00:05:23) last pick:  17400.00  11300.00
+\t (00:05:23) Moving J2 / JUMPER10_FGDIP10_ADRESS / FGDIP10.
+\t (00:05:23) last pick:  17500.00  11500.00
+\i (00:05:31) prepopup 17617.33 11543.52
+\i (00:05:33) rotate 
+\t (00:05:33) Spin the element(s).
+\i (00:05:36) iangle 90.000
+\t (00:05:36) last angle:  180.000 Degrees
+\i (00:05:45) prepopup 17205.91 11863.99
+\i (00:05:46) rotate 
+\t (00:05:46) Spin the element(s).
+\i (00:05:52) iangle -360.000
+\t (00:05:52) last angle:  90.000 Degrees
+\i (00:05:56) prepopup 17205.91 11158.09
+\i (00:05:58) rotate 
+\t (00:05:58) Spin the element(s).
+\i (00:06:00) iangle 0.000
+\t (00:06:00) last angle:  90.000 Degrees
+\i (00:06:02) prepopup 17270.87 11686.43
+\i (00:06:03) rotate 
+\t (00:06:03) Spin the element(s).
+\i (00:06:04) iangle 90.000
+\t (00:06:04) last angle:  180.000 Degrees
+\i (00:06:05) pick grid 17028.35 11937.61
+\t (00:06:05) last pick:  17000.00  11900.00
+\i (00:06:08) prepopup 17140.95 11391.94
+\i (00:06:09) pick grid 18145.67 11573.83
+\t (00:06:09) last pick:  18100.00  11600.00
+\i (00:06:10) pick grid 17175.60 11517.54
+\t (00:06:10) last pick:  17200.00  11500.00
+\t (00:06:10) Moving J2 / JUMPER10_FGDIP10_ADRESS / FGDIP10.
+\t (00:06:10) last pick:  17000.00  11900.00
+\i (00:06:11) prepopup 17158.27 11526.20
+\i (00:06:12) rotate 
+\t (00:06:12) Spin the element(s).
+\i (00:06:14) prepopup 17483.08 10867.93
+\i (00:06:15) iangle -90.000
+\t (00:06:15) last angle:  90.000 Degrees
+\i (00:06:18) prepopup 17431.11 11313.99
+\i (00:06:19) rotate 
+\t (00:06:19) Spin the element(s).
+\i (00:06:21) prepopup 17638.98 11262.02
+\i (00:06:23) done 
+\i (00:06:23) generaledit 
+\i (00:06:24) pick grid 17067.33 10361.24
+\t (00:06:24) last pick:  17100.00  10400.00
+\i (00:06:27) pick grid 17171.27 11508.87
+\t (00:06:27) last pick:  17200.00  11500.00
+\i (00:06:27) pick grid dbl 17171.27 11508.87
+\t (00:06:27) last pick:  17200.00  11500.00
+\i (00:06:29) place manual 
+\t (00:06:29) Selected item not valid for current operation, ignored: Filled Rectangle "J2, Package Geometry/Place_Bound_Top"
+\t (00:06:29) No valid items selected for the current operation, exiting.
+\i (00:06:29) generaledit 
+\i (00:06:30) place manual 
+\t (00:06:30) Selected item not valid for current operation, ignored: Filled Rectangle "J2, Package Geometry/Place_Bound_Top"
+\t (00:06:30) No valid items selected for the current operation, exiting.
+\i (00:06:30) generaledit 
+\i (00:06:31) pick grid 14079.14 11270.69
+\t (00:06:31) last pick:  14100.00  11300.00
+\i (00:06:32) place manual 
+\i (00:06:35) setwindow form.plc_manual
+\i (00:06:35) FORM plc_manual tree 'MULTISEL YES' J3 'Components by refdes' 
+\t (00:06:35) Placing J3 / JUMPER3_FGJUMPER3_JUMPER3 / FGJUMPER3 on Top.
+\i (00:06:35) FORM plc_manual tree  J3 'Components by refdes' 
+\i (00:06:37) setwindow pcb
+\i (00:06:37) pick grid 18054.73 9928.17
+\t (00:06:37) last pick:  18100.00  9900.00
+\i (00:06:39) setwindow form.plc_manual
+\i (00:06:39) FORM plc_manual tree 'MULTISEL YES' J4 'Components by refdes' 
+\t (00:06:39) Placing J4 / CON5_FGCONN5_ISP / FGCONN5 on Top.
+\i (00:06:39) FORM plc_manual tree  J4 'Components by refdes' 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) pick grid 17374.81 9954.15
+\t (00:06:49) last pick:  17400.00  10000.00
+\i (00:06:52) setwindow form.plc_manual
+\i (00:06:52) FORM plc_manual done  
+\i (00:06:52) setwindow pcb
+\i (00:06:52) generaledit 
+\i (00:06:53) pick grid 17041.34 9863.20
+\t (00:06:53) last pick:  17000.00  9900.00
+\i (00:06:56) save 
+\i (00:06:59) fillin yes 
+\i (00:06:59) generaledit 
+\i (00:07:02) exit 
+\t (00:07:02)     Journal end - Wed Aug 30 18:05:59 2017

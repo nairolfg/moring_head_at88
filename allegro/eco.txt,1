@@ -1,0 +1,339 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd                   |
+|                                                    Wed Aug 30 17:58:52 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ADR0         pins ADDED TO this new net
+                                 J2.1           U5.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADR1         pins ADDED TO this new net
+                                 J2.3           U5.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADR2         pins ADDED TO this new net
+                                 J2.5           U5.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADR3         pins ADDED TO this new net
+                                 J2.7           U5.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADR4         pins ADDED TO this new net
+                                 J2.9           U5.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADR5         pins ADDED TO this new net
+                                 J2.11          U5.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADR6         pins ADDED TO this new net
+                                 J2.13          U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADR7         pins ADDED TO this new net
+                                 J2.15          U5.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADR8         pins ADDED TO this new net
+                                 J2.17          R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ADR9         pins ADDED TO this new net
+                                 J2.19          R10.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C1.2                           
+                                 C2.2                           
+                                 C6.2                           
+                                 C7.2                           
+                                 C8.2                           
+                                 C9.2                           
+                                 C10.2                          
+                                 C11.2                          
+                                 J1.2                           
+                                 J2.2                           
+                                 J2.4                           
+                                 J2.6                           
+                                 J2.8                           
+                                 J2.10                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd                   |
+|                                                    Wed Aug 30 17:58:52 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J2.12                          
+                                 J2.14                          
+                                 J2.16                          
+                                 J2.18                          
+                                 J2.20                          
+                                 J3.2                           
+                                 J3.4                           
+                                 J3.6                           
+                                 J4.5                           
+                                 J6.1                           
+                                 J8.3                           
+                                 J9.3                           
+                                 Q1.2                           
+                                 Q2.2                           
+                                 Q3.2                           
+                                 U5.3                           
+                                 U5.5                           
+                                 U5.21                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  INT0         pins ADDED TO this new net
+                                 U2.2           U2.3           U5.32          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JP1          pins ADDED TO this new net
+                                 J3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JP2          pins ADDED TO this new net
+                                 J3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  JP3          pins ADDED TO this new net
+                                 J3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MISO         pins ADDED TO this new net
+                                 J4.3           U5.16          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MOSI         pins ADDED TO this new net
+                                 J4.4           U5.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07188       pins ADDED TO this new net
+                                 LED2.1         R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07798       pins ADDED TO this new net
+                                 J6.3           U2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07802       pins ADDED TO this new net
+                                 J6.2           U2.6           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd                   |
+|                                                    Wed Aug 30 17:58:52 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N08332       pins ADDED TO this new net
+                                 Q3.1           R6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08486       pins ADDED TO this new net
+                                 J7.1           Q1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N08516       pins ADDED TO this new net
+                                 J7.3           Q3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12693       pins ADDED TO this new net
+                                 Q1.1           R4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12697       pins ADDED TO this new net
+                                 Q2.1           R5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13371       pins ADDED TO this new net
+                                 J7.2           Q2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWM_BLUE     pins ADDED TO this new net
+                                 R6.1           U5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWM_GREEN    pins ADDED TO this new net
+                                 R5.1           U5.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWM_RED      pins ADDED TO this new net
+                                 R4.1           U5.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWM_SERVO1   pins ADDED TO this new net
+                                 J8.1           U5.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PWM_SERVO2   pins ADDED TO this new net
+                                 J9.1           U5.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  READ_LED     pins ADDED TO this new net
+                                 R3.1           U5.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET        pins ADDED TO this new net
+                                 J4.1           U5.29          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RXD          pins ADDED TO this new net
+                                 U2.1           U5.31          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK          pins ADDED TO this new net
+                                 J4.2           U5.17          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd                   |
+|                                                    Wed Aug 30 17:58:52 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  TXD          pins ADDED TO this new net
+                                 U2.4           U5.30          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_12       pins ADDED TO this new net
+                                 J1.1           J7.4           U1.1           
+                                 U3.1           U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_5V       pins ADDED TO this existing net (pins not previously on any net)
+                                 C6.1                           
+                                 C7.1                           
+                                 LED2.2                         
+                                 U1.3                           
+                                 U5.4                           
+                                 U5.6                           
+                                 U5.18                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_SERVO1   pins ADDED TO this new net
+                                 C8.1           C9.1           J8.2           
+                                 U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_SERVO2   pins ADDED TO this new net
+                                 C10.1          C11.1          J9.2           
+                                 U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XTAL1        pins ADDED TO this new net
+                                 C1.1           R7.2           Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XTAL2        pins ADDED TO this new net
+                                 C2.1           R9.2           Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XTAL1ADR8    pins ADDED TO this new net
+                                 R7.1           R8.1           U5.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XTAL2ADR9    pins ADDED TO this new net
+                                 R9.1           R10.1          U5.8           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd                   |
+|                                                    Wed Aug 30 17:58:52 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 75176_0_SO8_75176
+ 78HT2_TO252AA_78HT2
+ ATMEGA88_3_TQFP32_ATMEGA88
+ CAP NP_FG0805C_100NF
+ CAP NP_FG0805C_27PF
+ CAP_FGCAP6377_100UF
+ CON2_JUMPER2_POWER
+ CON3_FGCONN3_DMX
+ CON3_FGCONN3_SERVO1
+ CON3_FGCONN3_SERVO2
+ CON4_JUMPER4_RGB
+ CON5_FGCONN5_ISP
+ CRYSTAL_FGXTAL_8MHZ
+ JUMPER10_FGDIP10_ADRESS
+ JUMPER3_FGJUMPER3_JUMPER3
+ LED_FG0805R_GREEN
+ MOSFET N_0_SOT23_MOSFET N
+ RESISTOR_FG0805R_0
+ RESISTOR_FG0805R_100
+ RESISTOR_FG0805R_390
+ RESISTOR_FG0805R_RESISTOR
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd                   |
+|                                                    Wed Aug 30 17:58:52 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_FG0805C_27PF   
+ C2                  CAP NP_FG0805C_27PF   
+ C6                  CAP_FGCAP6377_100UF   
+ C7                  CAP NP_FG0805C_100NF  
+ C8                  CAP_FGCAP6377_100UF   
+ C9                  CAP NP_FG0805C_100NF  
+ C10                 CAP_FGCAP6377_100UF   
+ C11                 CAP NP_FG0805C_100NF  
+ J1                  CON2_JUMPER2_POWER    
+ J2                  JUMPER10_FGDIP10_ADRESS 
+ J3                  JUMPER3_FGJUMPER3_JUMPER3 
+ J4                  CON5_FGCONN5_ISP      
+ J6                  CON3_FGCONN3_DMX      
+ J7                  CON4_JUMPER4_RGB      
+ J8                  CON3_FGCONN3_SERVO1   
+ J9                  CON3_FGCONN3_SERVO2   
+ LED2                LED_FG0805R_GREEN     
+ Q1                  MOSFET N_0_SOT23_MOSFET N 
+ Q2                  MOSFET N_0_SOT23_MOSFET N 
+ Q3                  MOSFET N_0_SOT23_MOSFET N 
+ R3                  RESISTOR_FG0805R_390  
+ R4                  RESISTOR_FG0805R_RESISTOR 
+ R5                  RESISTOR_FG0805R_RESISTOR 
+ R6                  RESISTOR_FG0805R_RESISTOR 
+ R7                  RESISTOR_FG0805R_100  
+ R8                  RESISTOR_FG0805R_100  
+ R9                  RESISTOR_FG0805R_0    
+ R10                 RESISTOR_FG0805R_0    
+ U1                  78HT2_TO252AA_78HT2   
+ U2                  75176_0_SO8_75176     
+ U3                  78HT2_TO252AA_78HT2   
+ U4                  78HT2_TO252AA_78HT2   
+ U5                  ATMEGA88_3_TQFP32_ATMEGA88 
+ Y1                  CRYSTAL_FGXTAL_8MHZ   
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd                   |
+|                                                    Wed Aug 30 17:58:52 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.9                           PRIM_FILE      .\pstchip.dat
+ J3.6                           PRIM_FILE      .\pstchip.dat
+ J4.5                           PRIM_FILE      .\pstchip.dat
+ J6.3                           PRIM_FILE      .\pstchip.dat
+ J7.4                           PRIM_FILE      .\pstchip.dat
+ J8.3                           PRIM_FILE      .\pstchip.dat
+ J9.3                           PRIM_FILE      .\pstchip.dat
+ LED2.1                         PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ Q3.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ U1.3                           PRIM_FILE      .\pstchip.dat
+ U2.2                           PRIM_FILE      .\pstchip.dat
+ U3.3                           PRIM_FILE      .\pstchip.dat
+ U4.3                           PRIM_FILE      .\pstchip.dat
+ U5.6                           PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  221                                            |
+|------------------------------------------------------------------------------|
