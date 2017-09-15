@@ -1,0 +1,47 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Fri Sep 15 18:56:10 2017
+\t (00:00:03)         Host=DESKTOP-PHA2IGQ User=nairo Pid=1896 CPUs=4
+\t (00:00:03) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd
+\i (00:00:04) trapsize 665
+\i (00:00:04) trapsize 646
+\i (00:00:04) trapsize 668
+\i (00:00:05) trapsize 541
+\i (00:00:05) trapsize 541
+\i (00:00:05) generaledit 
+\i (00:00:10) drag_start grid 16509.97 11062.45
+\i (00:00:10) move 
+\t (00:00:10) last pick:  17175.00  10900.00
+\t (00:00:10) Moving J2 / JUMPER10_FGDIP10_ADRESS / FGDIP10.
+\t (00:00:10) Pick new location for the element(s).
+\i (00:00:10) drag_stop grid 16403.87 10962.84
+\i (00:00:10) generaledit 
+\i (00:00:12) undo 
+\i (00:00:12) trapsize 541
+\i (00:00:12) generaledit 
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 16249.04 11038.63
+\i (00:00:13) trapsize 1083
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 15941.55 11523.68
+\t (00:00:13) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
+\i (00:00:13) trapsize 2165
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 15742.33 11476.05
+\i (00:00:14) trapsize 4331
+\i (00:00:14) drag_start grid 18652.67 10410.66
+\i (00:00:15) drag_stop 19899.95 10557.91
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 16149.43 10627.21
+\i (00:00:16) trapsize 2165
+\i (00:00:18) pick grid 17851.45 10228.77
+\t (00:00:18) last pick:  17850.00  10225.00
+\i (00:01:38) exit 
+\e (00:01:38) Do you want to save the changes you made to moving_head_at88.brd?
+\i (00:01:40) fillin yes 
+\t (00:01:40)     Journal end - Fri Sep 15 18:57:47 2017
