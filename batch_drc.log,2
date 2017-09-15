@@ -2,9 +2,9 @@
 (                                                                     )
 (    DRC Update                                                       )
 (                                                                     )
-(    Drawing          : moving_head.brd                               )
+(    Drawing          : moving_head_at88.brd                          )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Thu Mar 23 18:36:16 2017                      )
+(    Date/Time        : Fri Sep 15 16:25:39 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  4
+ ..... Total number of DRC errors  0
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

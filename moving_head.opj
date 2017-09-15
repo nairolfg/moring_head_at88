@@ -138,8 +138,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -13 -58 98 2395 98 1025")
-        (Scroll "704 1057")
-        (Zoom "350")
+        (Scroll "-485 -15")
+        (Zoom "172")
         (Occurrence "/"))
       (Path "C:\CADENCE\PROJECTS\MOVING_HEAD_AT88\MOVING_HEAD.DSN")
       (Schematic "SCHEMATIC1")
