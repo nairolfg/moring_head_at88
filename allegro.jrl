@@ -1,47 +1,95 @@
-\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:03)     Journal start - Fri Sep 15 18:56:10 2017
-\t (00:00:03)         Host=DESKTOP-PHA2IGQ User=nairo Pid=1896 CPUs=4
-\t (00:00:03) 
-\t (00:00:04) Opening existing design...
-\d (00:00:04) Database opened: C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd
-\i (00:00:04) trapsize 665
-\i (00:00:04) trapsize 646
-\i (00:00:04) trapsize 668
-\i (00:00:05) trapsize 541
-\i (00:00:05) trapsize 541
-\i (00:00:05) generaledit 
-\i (00:00:10) drag_start grid 16509.97 11062.45
-\i (00:00:10) move 
-\t (00:00:10) last pick:  17175.00  10900.00
-\t (00:00:10) Moving J2 / JUMPER10_FGDIP10_ADRESS / FGDIP10.
-\t (00:00:10) Pick new location for the element(s).
-\i (00:00:10) drag_stop grid 16403.87 10962.84
-\i (00:00:10) generaledit 
-\i (00:00:12) undo 
-\i (00:00:12) trapsize 541
-\i (00:00:12) generaledit 
-\i (00:00:13) zoom out 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom out 16249.04 11038.63
-\i (00:00:13) trapsize 1083
-\i (00:00:13) zoom out 1 
-\i (00:00:13) setwindow pcb
-\i (00:00:13) zoom out 15941.55 11523.68
-\t (00:00:13) Grids are drawn 50.00, 50.00 apart for enhanced viewability.
-\i (00:00:13) trapsize 2165
-\i (00:00:14) zoom out 1 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) zoom out 15742.33 11476.05
-\i (00:00:14) trapsize 4331
-\i (00:00:14) drag_start grid 18652.67 10410.66
-\i (00:00:15) drag_stop 19899.95 10557.91
-\i (00:00:16) zoom in 1 
-\i (00:00:16) setwindow pcb
-\i (00:00:16) zoom in 16149.43 10627.21
-\i (00:00:16) trapsize 2165
-\i (00:00:18) pick grid 17851.45 10228.77
-\t (00:00:18) last pick:  17850.00  10225.00
-\i (00:01:38) exit 
-\e (00:01:38) Do you want to save the changes you made to moving_head_at88.brd?
-\i (00:01:40) fillin yes 
-\t (00:01:40)     Journal end - Fri Sep 15 18:57:47 2017
+\t (00:00:55) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:55)     Journal start - Thu Oct 05 10:18:47 2017
+\t (00:00:55)         Host=FLOPC User=MGZ Pid=5068 CPUs=4
+\t (00:00:55) 
+\t (00:00:56) Opening existing design...
+\d (00:00:56) Database opened: C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd
+\t (00:00:56) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:56) trapsize 1768
+\i (00:00:56) trapsize 1728
+\i (00:00:56) trapsize 1775
+\i (00:00:56) trapsize 1490
+\i (00:00:56) trapsize 1490
+\i (00:00:57) generaledit 
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 16370.21 10198.00
+\i (00:01:05) trapsize 745
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 16359.78 10211.41
+\t (00:01:05) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:01:05) trapsize 372
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 16321.05 10619.62
+\t (00:01:06) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:01:06) trapsize 745
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 16307.64 10470.63
+\i (00:01:07) trapsize 1490
+\i (00:01:07) zoom out 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom out 16307.64 10470.64
+\t (00:01:07) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
+\i (00:01:07) trapsize 2980
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 16307.65 10828.19
+\t (00:01:07) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:01:07) trapsize 1490
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 16346.39 10813.30
+\i (00:01:08) trapsize 745
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 16346.39 10813.30
+\t (00:01:08) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:01:08) trapsize 372
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 16366.50 10825.97
+\t (00:01:08) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:01:08) trapsize 745
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 16311.38 10601.01
+\t (00:01:13) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:01:13) trapsize 372
+\i (00:02:24) zoom out 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out 16189.22 10708.28
+\t (00:02:24) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:02:24) trapsize 745
+\i (00:02:47) zoom in 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in 17226.12 10435.64
+\t (00:02:47) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:02:47) trapsize 372
+\i (00:51:11) zoom out 1 
+\i (00:51:11) setwindow pcb
+\i (00:51:11) zoom out 16454.40 10361.89
+\t (00:51:11) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:51:11) trapsize 745
+\i (00:51:12) zoom in 1 
+\i (00:51:12) setwindow pcb
+\i (00:51:12) zoom in 16068.54 10880.35
+\t (00:51:12) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:51:12) trapsize 372
+\i (00:51:14) zoom in 1 
+\i (00:51:14) setwindow pcb
+\i (00:51:14) zoom in 16280.84 10771.59
+\i (00:51:14) trapsize 186
+\i (00:51:14) zoom out 1 
+\i (00:51:14) setwindow pcb
+\i (00:51:14) zoom out 16280.84 10771.59
+\i (00:51:14) trapsize 372
+\i (00:51:14) zoom out 1 
+\i (00:51:14) setwindow pcb
+\i (00:51:14) zoom out 16279.35 10771.59
+\t (00:51:14) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:51:14) trapsize 745
+\i (127:22:52) exit 
+\t (127:22:52)     Journal end - Tue Oct 10 17:40:44 2017

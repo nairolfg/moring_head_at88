@@ -99,6 +99,10 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (CON5
+      (FullPartName "CON5.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
     (RESISTOR
       (FullPartName "RESISTOR.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -132,17 +136,17 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -13 -58 0 258 0 489"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 258 0 489"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -13 -58 98 2395 98 1025")
-        (Scroll "-485 -15")
-        (Zoom "172")
+        (Placement "44 2 3 -1 -1 -8 -31 98 1710 98 1025")
+        (Scroll "148 270")
+        (Zoom "206")
         (Occurrence "/"))
       (Path "C:\CADENCE\PROJECTS\MOVING_HEAD_AT88\MOVING_HEAD.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (MPSSessionName "nairo")
+  (MPSSessionName "MGZ")
   (ISPCBBASICLICENSE "false"))

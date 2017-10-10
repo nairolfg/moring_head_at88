@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Aug-30-2017 at 17:58:52 }
+{ Using PSTWRITER 16.6.0 d001Sep-15-2017 at 16:29:26 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='MOVING_HEAD';
@@ -104,16 +104,6 @@ SECTION_NUMBER 1
  '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7250@CONNECTOR.JUMPER10.NORMAL(CHIPS)':
  C_PATH='@moving_head.schematic1(sch_1):ins7250@connector.\jumper10.normal\(chips)',
  P_PATH='@moving_head.schematic1(sch_1):page1_ins7250@connector.\jumper10.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J3 'JUMPER3_FGJUMPER3_JUMPER3':;
-
-SECTION_NUMBER 1
- '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7390@CONNECTOR.JUMPER3.NORMAL(CHIPS)':
- C_PATH='@moving_head.schematic1(sch_1):ins7390@connector.\jumper3.normal\(chips)',
- P_PATH='@moving_head.schematic1(sch_1):page1_ins7390@connector.\jumper3.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

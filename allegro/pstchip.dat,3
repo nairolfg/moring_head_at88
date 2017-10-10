@@ -1,20 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Aug-30-2017 at 18:06:48}
-primitive 'CAP NP_FG0805C_27PF';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CAP NP';
-    JEDEC_TYPE='FG0805C';
-    VALUE='27pF';
-  end_body;
-end_primitive;
+{ Using PSTWRITER 16.6.0 d001Sep-15-2017 at 19:24:18}
 primitive 'CAP_FGCAP6377_100UF';
   pin
     '1':
@@ -261,21 +246,6 @@ primitive 'MOSFET N_0_SOT23_MOSFET N';
     VALUE='MOSFET N';
   end_body;
 end_primitive;
-primitive 'RESISTOR_FG0805R_0';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='RESISTOR';
-    JEDEC_TYPE='FG0805R';
-    VALUE='0';
-  end_body;
-end_primitive;
 primitive 'RESISTOR_FG0805R_390';
   pin
     '1':
@@ -304,21 +274,6 @@ primitive 'RESISTOR_FG0805R_RESISTOR';
     PART_NAME='RESISTOR';
     JEDEC_TYPE='FG0805R';
     VALUE='RESISTOR';
-  end_body;
-end_primitive;
-primitive 'RESISTOR_FG0805R_100';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='RESISTOR';
-    JEDEC_TYPE='FG0805R';
-    VALUE='100';
   end_body;
 end_primitive;
 primitive '78HT2_TO252AA_78HT2';
@@ -539,21 +494,6 @@ primitive 'ATMEGA88_3_TQFP32_ATMEGA88';
     PART_NAME='Atmega88_3';
     JEDEC_TYPE='TQFP32';
     VALUE='Atmega88';
-  end_body;
-end_primitive;
-primitive 'CRYSTAL_FGXTAL_8MHZ';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CRYSTAL';
-    JEDEC_TYPE='FGXTAL';
-    VALUE='8MHz';
   end_body;
 end_primitive;
 END.

@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Aug-30-2017 at 17:58:33}
+{ Using PSTWRITER 16.6.0 d001Aug-30-2017 at 18:06:48}
 primitive 'CAP NP_FG0805C_27PF';
   pin
     '1':
@@ -127,33 +127,6 @@ primitive 'JUMPER10_FGDIP10_ADRESS';
     PART_NAME='JUMPER10';
     JEDEC_TYPE='FGDIP10';
     VALUE='ADRESS';
-  end_body;
-end_primitive;
-primitive 'JUMPER3_FGJUMPER3_JUMPER3';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    '5':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    '6':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='JUMPER3';
-    JEDEC_TYPE='FGjumper3';
-    VALUE='JUMPER3';
   end_body;
 end_primitive;
 primitive 'CON5_FGCONN5_ISP';
