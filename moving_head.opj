@@ -136,17 +136,17 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 258 0 489"))
+        (Placement "44 0 1 -1 -1 -13 -58 0 258 0 489"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 98 1710 98 1025")
-        (Scroll "148 270")
+        (Placement "44 2 3 -1 -1 -13 -58 98 1710 98 1025")
+        (Scroll "-320 187")
         (Zoom "206")
         (Occurrence "/"))
       (Path "C:\CADENCE\PROJECTS\MOVING_HEAD_AT88\MOVING_HEAD.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
-  (MPSSessionName "MGZ")
+  (MPSSessionName "nairo")
   (ISPCBBASICLICENSE "false"))
