@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : moving_head_at88.brd                          )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Fri Sep 15 19:26:16 2017                      )
+(    Date/Time        : Tue Oct 17 17:28:35 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -59,7 +59,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Sep 15 19:26:16 2017
+netrev run on Oct 17 17:28:35 2017
    DESIGN NAME : 'MOVING_HEAD'
    PACKAGING ON Sep 10 2012 04:46:09
 
@@ -84,6 +84,6 @@ netrev run on Sep 15 19:26:16 2017
  No oversight detected
  No warning detected
 
-cpu time      0:00:32
+cpu time      0:00:34
 elapsed time  0:00:00
 

@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Sep-15-2017 at 19:26:16 }
+{ Using PSTWRITER 16.6.0 d001Oct-17-2017 at 17:28:35 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='MOVING_HEAD';
@@ -78,6 +78,16 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ J10 'CON5_FGCONN5_CON5':;
+
+SECTION_NUMBER 1
+ '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS31619@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@moving_head.schematic1(sch_1):ins31619@connector.\con5.normal\(chips)',
+ P_PATH='@moving_head.schematic1(sch_1):page1_ins31619@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  J2 'JUMPER10_FGDIP10_ADRESS':;
 
 SECTION_NUMBER 1
@@ -104,16 +114,6 @@ SECTION_NUMBER 1
  '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS7804@CONNECTOR.CON3.NORMAL(CHIPS)':
  C_PATH='@moving_head.schematic1(sch_1):ins7804@connector.\con3.normal\(chips)',
  P_PATH='@moving_head.schematic1(sch_1):page1_ins7804@connector.\con3.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- J7 'CON4_JUMPER4_RGB':;
-
-SECTION_NUMBER 1
- '@MOVING_HEAD.SCHEMATIC1(SCH_1):INS8466@CONNECTOR.CON4.NORMAL(CHIPS)':
- C_PATH='@moving_head.schematic1(sch_1):ins8466@connector.\con4.normal\(chips)',
- P_PATH='@moving_head.schematic1(sch_1):page1_ins8466@connector.\con4.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

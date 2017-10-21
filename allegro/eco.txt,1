@@ -3,37 +3,19 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd                   |
-|                                                    Fri Sep 15 19:24:19 2017  |
+|                                                    Tue Oct 17 15:37:11 2017  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  XTAL1ADR8    pins MOVED FROM this net (to net name listed on right)
-                                 U5.7            16322.8 10471.2
-                                                                           ADR8
+  RXD          pins MOVED FROM this net (to net name listed on right)
+                                 U5.31           16421.2 10727.1
+                                                                            TXD
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  XTAL2ADR9    pins MOVED FROM this net (to net name listed on right)
-                                 U5.8            16322.8 10439.7
-                                                                           ADR9
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
+  TXD          pins MOVED FROM this net (to net name listed on right)
+                                 U5.30           16452.7 10727.1
+                                                                            RXD
 |------------------------------------------------------------------------------|
-|  C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd                   |
-|                                                    Fri Sep 15 19:24:19 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENTS DELETED from board drawing                                        |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C1                  CAP NP_FG0805C_27PF   15950.0 10525.0
- C2                  CAP NP_FG0805C_27PF   15950.0 10737.5
- R7                  RESISTOR_FG0805R_100  16150.0 10525.0
- R8                  RESISTOR_FG0805R_100  16150.0 10450.0
- R9                  RESISTOR_FG0805R_0    16150.0 10625.0
- R10                 RESISTOR_FG0805R_0    16150.0 10700.0
- Y1                  CRYSTAL_FGXTAL_8MHZ   15818.7 10468.7
-|------------------------------------------------------------------------------|
-|   total ECO changes reported  9                                              |
+|   total ECO changes reported  2                                              |
 |------------------------------------------------------------------------------|

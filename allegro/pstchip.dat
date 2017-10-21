@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Sep-15-2017 at 19:26:16}
+{ Using PSTWRITER 16.6.0 d001Oct-17-2017 at 17:28:35}
 primitive 'CAP_FGCAP6377_100UF';
   pin
     '1':
@@ -43,6 +43,30 @@ primitive 'CON2_JUMPER2_POWER';
     PART_NAME='CON2';
     JEDEC_TYPE='JUMPER2';
     VALUE='POWER';
+  end_body;
+end_primitive;
+primitive 'CON5_FGCONN5_CON5';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON5';
+    JEDEC_TYPE='FGconn5';
+    VALUE='CON5';
   end_body;
 end_primitive;
 primitive 'JUMPER10_FGDIP10_ADRESS';
@@ -154,27 +178,6 @@ primitive 'CON3_FGCONN3_DMX';
     PART_NAME='CON3';
     JEDEC_TYPE='FGconn3';
     VALUE='DMX';
-  end_body;
-end_primitive;
-primitive 'CON4_JUMPER4_RGB';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='CON4';
-    JEDEC_TYPE='JUMPER4';
-    VALUE='RGB';
   end_body;
 end_primitive;
 primitive 'CON3_FGCONN3_SERVO1';

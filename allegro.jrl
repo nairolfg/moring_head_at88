@@ -1,95 +1,2981 @@
-\t (00:00:55) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:55)     Journal start - Thu Oct 05 10:18:47 2017
-\t (00:00:55)         Host=FLOPC User=MGZ Pid=5068 CPUs=4
-\t (00:00:55) 
-\t (00:00:56) Opening existing design...
-\d (00:00:56) Database opened: C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd
-\t (00:00:56) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:00:56) trapsize 1768
-\i (00:00:56) trapsize 1728
-\i (00:00:56) trapsize 1775
-\i (00:00:56) trapsize 1490
-\i (00:00:56) trapsize 1490
-\i (00:00:57) generaledit 
-\i (00:01:05) zoom in 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom in 16370.21 10198.00
-\i (00:01:05) trapsize 745
-\i (00:01:05) zoom in 1 
-\i (00:01:05) setwindow pcb
-\i (00:01:05) zoom in 16359.78 10211.41
-\t (00:01:05) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
-\i (00:01:05) trapsize 372
-\i (00:01:06) zoom out 1 
-\i (00:01:06) setwindow pcb
-\i (00:01:06) zoom out 16321.05 10619.62
-\t (00:01:06) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:01:06) trapsize 745
-\i (00:01:07) zoom out 1 
-\i (00:01:07) setwindow pcb
-\i (00:01:07) zoom out 16307.64 10470.63
-\i (00:01:07) trapsize 1490
-\i (00:01:07) zoom out 1 
-\i (00:01:07) setwindow pcb
-\i (00:01:07) zoom out 16307.64 10470.64
-\t (00:01:07) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
-\i (00:01:07) trapsize 2980
-\i (00:01:07) zoom in 1 
-\i (00:01:07) setwindow pcb
-\i (00:01:07) zoom in 16307.65 10828.19
-\t (00:01:07) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:01:07) trapsize 1490
-\i (00:01:08) zoom in 1 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) zoom in 16346.39 10813.30
-\i (00:01:08) trapsize 745
-\i (00:01:08) zoom in 1 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) zoom in 16346.39 10813.30
-\t (00:01:08) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
-\i (00:01:08) trapsize 372
-\i (00:01:08) zoom out 1 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) zoom out 16366.50 10825.97
-\t (00:01:08) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:01:08) trapsize 745
-\i (00:01:13) zoom in 1 
-\i (00:01:13) setwindow pcb
-\i (00:01:13) zoom in 16311.38 10601.01
-\t (00:01:13) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
-\i (00:01:13) trapsize 372
-\i (00:02:24) zoom out 1 
-\i (00:02:24) setwindow pcb
-\i (00:02:24) zoom out 16189.22 10708.28
-\t (00:02:24) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:02:24) trapsize 745
-\i (00:02:47) zoom in 1 
-\i (00:02:47) setwindow pcb
-\i (00:02:47) zoom in 17226.12 10435.64
-\t (00:02:47) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
-\i (00:02:47) trapsize 372
-\i (00:51:11) zoom out 1 
-\i (00:51:11) setwindow pcb
-\i (00:51:11) zoom out 16454.40 10361.89
-\t (00:51:11) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:51:11) trapsize 745
-\i (00:51:12) zoom in 1 
-\i (00:51:12) setwindow pcb
-\i (00:51:12) zoom in 16068.54 10880.35
-\t (00:51:12) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
-\i (00:51:12) trapsize 372
-\i (00:51:14) zoom in 1 
-\i (00:51:14) setwindow pcb
-\i (00:51:14) zoom in 16280.84 10771.59
-\i (00:51:14) trapsize 186
-\i (00:51:14) zoom out 1 
-\i (00:51:14) setwindow pcb
-\i (00:51:14) zoom out 16280.84 10771.59
-\i (00:51:14) trapsize 372
-\i (00:51:14) zoom out 1 
-\i (00:51:14) setwindow pcb
-\i (00:51:14) zoom out 16279.35 10771.59
-\t (00:51:14) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:51:14) trapsize 745
-\i (127:22:52) exit 
-\t (127:22:52)     Journal end - Tue Oct 10 17:40:44 2017
+\t (00:00:05) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:05)     Journal start - Wed Oct 18 17:26:01 2017
+\t (00:00:05)         Host=FLOPC User=MGZ Pid=660 CPUs=4
+\t (00:00:05) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Database opened: C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd
+\t (00:00:07) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:07) trapsize 1768
+\i (00:00:07) trapsize 1728
+\i (00:00:07) trapsize 1775
+\i (00:00:07) trapsize 1490
+\i (00:00:07) trapsize 1490
+\i (00:00:07) generaledit 
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 16961.49 10774.12
+\i (00:00:23) trapsize 745
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in 17135.80 10745.82
+\t (00:00:23) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:00:23) trapsize 372
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 16924.99 10720.50
+\i (00:00:24) trapsize 186
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 16956.28 10726.09
+\i (00:00:25) trapsize 372
+\i (00:00:30) delete 
+\i (00:00:31) pick grid 17287.77 10808.03
+\t (00:00:31) last pick:  17288.00  10808.00
+\t (00:00:31) Dynamic Shape "Gnd, Boundary/Top"
+\i (00:00:32) pick grid 17456.86 10769.30
+\t (00:00:32) last pick:  17457.00  10769.00
+\i (00:00:32) prepopup 17298.19 10736.52
+\i (00:00:33) done 
+\i (00:00:33) generaledit 
+\i (00:00:34) drag_start grid 17144.00 10785.68
+\i (00:00:34) slide 
+\t (00:00:34) Waiting for the destination pick.
+\i (00:00:41) drag_stop grid 17099.31 10800.58
+\t (00:00:41) No DRC errors detected.
+\i (00:00:41) generaledit 
+\i (00:00:47) drag_start grid 17033.01 10698.53
+\i (00:00:47) slide 
+\t (00:00:47) Waiting for the destination pick.
+\i (00:01:02) drag_stop grid 17066.53 10682.14
+\t (00:01:02) No DRC errors detected.
+\i (00:01:02) generaledit 
+\i (00:01:08) drag_start grid 16822.95 10728.33
+\i (00:01:08) slide 
+\t (00:01:08) Waiting for the destination pick.
+\i (00:01:08) drag_stop grid 16872.85 10726.09
+\t (00:01:08) No DRC errors detected.
+\i (00:01:08) generaledit 
+\i (00:01:09) drag_start grid 16830.40 10726.84
+\i (00:01:09) slide 
+\t (00:01:09) Waiting for the destination pick.
+\i (00:01:12) drag_stop grid 16879.56 10726.09
+\t (00:01:12) No DRC errors detected.
+\i (00:01:12) generaledit 
+\i (00:01:13) pick grid 16871.37 10780.47
+\t (00:01:13) last pick:  16871.00  10780.00
+\i (00:01:28) prepopup 16865.41 10814.73
+\i (00:01:31) pop dyn_option_select '@:@Change Width...' 
+\i (00:01:31) change width 
+\i (00:01:36) setwindow form.chgwidth
+\i (00:01:36) FORM chgwidth chgwidth 20.00 
+\i (00:01:36) FORM chgwidth done  
+\t (00:01:36) Changed 1 items out of 1 items found.
+\i (00:01:36) setwindow pcb
+\i (00:01:36) generaledit 
+\i (00:01:40) pick grid 16726.11 10813.99
+\t (00:01:40) last pick:  16726.00  10814.00
+\i (00:01:40) prepopup 16724.62 10816.22
+\i (00:01:42) pop dyn_option_select '@:@Change Width...' 
+\i (00:01:42) change width 
+\i (00:01:43) setwindow form.chgwidth
+\i (00:01:43) FORM chgwidth done  
+\t (00:01:43) Changed 1 items out of 1 items found.
+\i (00:01:43) setwindow pcb
+\i (00:01:43) generaledit 
+\i (00:01:44) pick grid 16633.00 10822.93
+\t (00:01:44) last pick:  16633.00  10823.00
+\i (00:01:45) prepopup 16633.00 10822.93
+\i (00:01:46) pop dyn_option_select '@:@Change Width...' 
+\i (00:01:46) change width 
+\i (00:01:48) setwindow form.chgwidth
+\i (00:01:48) FORM chgwidth done  
+\t (00:01:48) Changed 1 items out of 1 items found.
+\i (00:01:48) setwindow pcb
+\i (00:01:48) generaledit 
+\i (00:01:50) pick grid 17202.10 10811.01
+\t (00:01:50) last pick:  17202.00  10811.00
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out 17202.10 10811.01
+\t (00:01:50) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:01:50) trapsize 745
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out 17202.10 10811.01
+\i (00:01:50) trapsize 1490
+\i (00:01:52) zoom in 1 
+\i (00:01:52) setwindow pcb
+\i (00:01:52) zoom in 15670.59 10954.03
+\i (00:01:52) trapsize 745
+\i (00:01:53) zoom in 1 
+\i (00:01:53) setwindow pcb
+\i (00:01:53) zoom in 15681.02 10918.28
+\t (00:01:53) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:01:53) trapsize 372
+\i (00:01:54) zoom out 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom out 15681.03 10918.28
+\t (00:01:54) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:01:54) trapsize 745
+\i (00:02:00) zoom in 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom in 16066.88 10590.52
+\t (00:02:00) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:02:00) trapsize 372
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 15887.36 10555.51
+\t (00:02:05) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:02:05) trapsize 745
+\i (00:03:17) zoom out 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out 16440.09 10559.98
+\i (00:03:17) trapsize 1490
+\i (00:03:18) zoom in 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom in 16452.00 10399.08
+\i (00:03:18) trapsize 745
+\i (00:03:18) zoom in 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom in 16443.07 10385.67
+\t (00:03:18) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:03:18) trapsize 372
+\i (00:03:18) zoom in 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom in 16409.55 10592.76
+\i (00:03:18) trapsize 186
+\i (00:03:19) zoom in 1 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) zoom in 16409.56 10592.76
+\i (00:03:19) trapsize 93
+\i (00:03:20) drag_start grid 16374.74 10540.99
+\i (00:03:20) slide 
+\t (00:03:20) Waiting for the destination pick.
+\i (00:03:20) drag_stop grid 16392.06 10549.19
+\t (00:03:20) No DRC errors detected.
+\i (00:03:20) generaledit 
+\i (00:03:21) drag_start grid 16376.04 10545.09
+\i (00:03:21) slide 
+\t (00:03:21) Waiting for the destination pick.
+\i (00:03:21) drag_stop grid 16392.61 10555.33
+\t (00:03:21) No DRC errors detected.
+\i (00:03:21) generaledit 
+\i (00:03:23) drag_start grid 16354.44 10565.57
+\i (00:03:23) slide 
+\t (00:03:23) Waiting for the destination pick.
+\i (00:03:24) drag_stop grid 16397.64 10565.57
+\t (00:03:24) No DRC errors detected.
+\i (00:03:24) generaledit 
+\i (00:03:25) drag_start grid 16376.23 10515.67
+\i (00:03:25) slide 
+\t (00:03:25) Waiting for the destination pick.
+\i (00:03:27) drag_stop grid 16398.01 10512.31
+\t (00:03:27) No DRC errors detected.
+\i (00:03:27) generaledit 
+\i (00:03:28) drag_start grid 16400.44 10567.62
+\i (00:03:28) slide 
+\t (00:03:28) Waiting for the destination pick.
+\i (00:03:29) zoom out 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) zoom out 16386.66 10552.17
+\i (00:03:29) trapsize 186
+\i (00:03:29) zoom in 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) zoom in 16406.38 10547.32
+\i (00:03:29) trapsize 93
+\i (00:03:29) zoom out 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) zoom out 16405.27 10547.32
+\i (00:03:29) trapsize 186
+\i (00:03:30) zoom out 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom out 16402.28 10546.96
+\i (00:03:30) trapsize 372
+\i (00:03:30) zoom out 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom out 16371.00 10532.81
+\t (00:03:30) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:03:30) trapsize 745
+\i (00:03:30) zoom in 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom in 16370.99 10532.80
+\t (00:03:30) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:03:30) trapsize 372
+\i (00:03:30) drag_stop grid 16371.00 10532.81
+\t (00:03:30) No DRC errors detected.
+\i (00:03:30) generaledit 
+\i (00:03:30) zoom out 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom out 16373.23 10532.81
+\t (00:03:30) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:03:30) trapsize 745
+\i (00:03:30) zoom in 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom in 16391.11 10532.80
+\t (00:03:30) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:03:30) trapsize 372
+\i (00:03:31) zoom in 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in 16391.11 10532.81
+\i (00:03:31) trapsize 186
+\i (00:03:31) zoom in 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in 16374.35 10533.93
+\i (00:03:31) trapsize 93
+\i (00:03:32) drag_start grid 16365.78 10549.76
+\i (00:03:32) slide 
+\t (00:03:32) Waiting for the destination pick.
+\i (00:03:33) drag_stop grid 16396.14 10555.72
+\t (00:03:33) No DRC errors detected.
+\i (00:03:33) generaledit 
+\i (00:03:33) drag_start grid 16355.73 10558.32
+\i (00:03:33) slide 
+\t (00:03:33) Waiting for the destination pick.
+\i (00:03:35) drag_stop grid 16351.63 10565.96
+\t (00:03:35) No DRC errors detected.
+\i (00:03:35) generaledit 
+\i (00:03:36) drag_start grid 16360.01 10565.03
+\i (00:03:36) slide 
+\t (00:03:36) Waiting for the destination pick.
+\i (00:03:36) drag_stop grid 16382.73 10565.40
+\t (00:03:36) No DRC errors detected.
+\i (00:03:37) generaledit 
+\i (00:03:38) drag_start grid 16365.04 10522.20
+\i (00:03:38) slide 
+\t (00:03:38) Waiting for the destination pick.
+\t (00:03:38) Starting slide location has pre-existing issues. Retaining initial cline.
+\i (00:03:38) drag_stop grid 16381.98 10523.13
+\t (00:03:38) No DRC errors detected.
+\i (00:03:38) generaledit 
+\i (00:03:40) pick grid 16364.85 10539.70
+\t (00:03:40) last pick:  16365.00  10540.00
+\i (00:03:41) drag_start grid 16365.22 10555.53
+\i (00:03:41) slide 
+\t (00:03:41) Waiting for the destination pick.
+\i (00:03:41) drag_stop grid 16390.92 10556.46
+\t (00:03:41) No DRC errors detected.
+\i (00:03:41) generaledit 
+\i (00:03:42) drag_start grid 16357.22 10565.77
+\i (00:03:42) slide 
+\t (00:03:42) Waiting for the destination pick.
+\i (00:03:43) drag_stop grid 16381.80 10564.47
+\t (00:03:43) No DRC errors detected.
+\i (00:03:43) generaledit 
+\i (00:03:44) drag_start grid 16357.03 10508.23
+\i (00:03:44) slide 
+\t (00:03:44) Waiting for the destination pick.
+\i (00:03:46) drag_stop grid 16380.87 10494.64
+\t (00:03:46) No DRC errors detected.
+\i (00:03:46) generaledit 
+\i (00:03:47) drag_start grid 16371.93 10514.93
+\i (00:03:47) slide 
+\t (00:03:47) Waiting for the destination pick.
+\i (00:03:48) drag_stop grid 16391.30 10517.17
+\t (00:03:48) No DRC errors detected.
+\i (00:03:48) generaledit 
+\i (00:03:48) drag_start grid 16376.03 10547.71
+\i (00:03:48) slide 
+\t (00:03:48) Waiting for the destination pick.
+\i (00:03:49) drag_stop grid 16395.58 10558.70
+\t (00:03:49) No DRC errors detected.
+\i (00:03:49) generaledit 
+\i (00:03:50) drag_start grid 16376.77 10516.42
+\i (00:03:50) slide 
+\t (00:03:50) Waiting for the destination pick.
+\i (00:03:50) drag_stop grid 16398.37 10518.47
+\t (00:03:50) No DRC errors detected.
+\i (00:03:50) generaledit 
+\i (00:03:51) drag_start grid 16365.04 10568.38
+\i (00:03:51) slide 
+\t (00:03:51) Waiting for the destination pick.
+\i (00:03:52) drag_stop grid 16392.97 10568.19
+\t (00:03:52) No DRC errors detected.
+\i (00:03:52) generaledit 
+\i (00:03:53) drag_start grid 16356.66 10567.64
+\i (00:03:53) slide 
+\t (00:03:53) Waiting for the destination pick.
+\i (00:03:56) drag_stop grid 16397.07 10565.96
+\t (00:03:56) No DRC errors detected.
+\i (00:03:56) generaledit 
+\i (00:03:58) drag_start grid 16374.54 10510.46
+\i (00:03:58) slide 
+\t (00:03:58) Waiting for the destination pick.
+\i (00:03:59) drag_stop grid 16392.41 10497.62
+\t (00:03:59) No DRC errors detected.
+\i (00:03:59) generaledit 
+\i (00:04:00) drag_start grid 16368.20 10500.78
+\i (00:04:00) slide 
+\t (00:04:00) Waiting for the destination pick.
+\i (00:04:03) drag_stop grid 16389.43 10495.94
+\t (00:04:03) No DRC errors detected.
+\i (00:04:03) generaledit 
+\i (00:04:04) drag_start grid 16393.53 10527.41
+\i (00:04:04) slide 
+\t (00:04:04) Waiting for the destination pick.
+\i (00:04:05) drag_stop grid 16395.77 10506.18
+\t (00:04:05) No DRC errors detected.
+\i (00:04:05) generaledit 
+\i (00:04:06) pick grid 16403.21 10493.15
+\t (00:04:06) last pick:  16403.00  10493.00
+\i (00:04:06) zoom out 1 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom out 16402.66 10523.13
+\i (00:04:06) trapsize 186
+\i (00:04:06) zoom out 1 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom out 16402.65 10523.13
+\i (00:04:06) trapsize 372
+\i (00:04:06) zoom out 1 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom out 16402.64 10523.13
+\t (00:04:06) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:04:06) trapsize 745
+\i (00:04:07) zoom in 1 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) zoom in 16463.73 10585.70
+\t (00:04:07) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:04:07) trapsize 372
+\i (00:04:18) zoom out 1 
+\i (00:04:18) setwindow pcb
+\i (00:04:18) zoom out 16371.37 10573.04
+\t (00:04:18) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:04:18) trapsize 745
+\i (00:04:19) zoom in 1 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) zoom in 15991.46 11191.31
+\t (00:04:19) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:04:19) trapsize 372
+\i (00:04:19) zoom in 1 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) zoom in 15989.23 11191.31
+\i (00:04:19) trapsize 186
+\i (00:04:26) zoom out 1 
+\i (00:04:26) setwindow pcb
+\i (00:04:26) zoom out 16059.62 11122.41
+\i (00:04:26) trapsize 372
+\i (00:04:27) zoom out 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out 16059.63 11122.42
+\t (00:04:27) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:04:27) trapsize 745
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in 16059.63 11122.42
+\t (00:04:27) Grids are drawn 4.00, 4.00 apart for enhanced viewability.
+\i (00:04:27) trapsize 372
+\i (00:04:27) zoom out 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out 16059.63 11122.42
+\t (00:04:27) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:04:27) trapsize 745
+\i (00:04:27) zoom out 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out 16059.63 11122.42
+\i (00:04:27) trapsize 1490
+\i (00:04:27) zoom out 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom out 16059.62 11122.41
+\t (00:04:27) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
+\i (00:04:27) trapsize 2980
+\i (00:04:28) zoom in 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom in 16017.91 10699.31
+\t (00:04:28) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:04:28) trapsize 1490
+\i (00:04:28) zoom in 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom in 16017.91 10699.31
+\i (00:04:28) trapsize 745
+\i (00:36:54) xhilite 
+\i (00:36:54) xrefdes U5 
+\i (00:36:54) xname_flush 
+\i (00:36:54) trapsize 534
+\t (00:36:54) Symbol "U5" highlighted.
+\i (00:36:54) done 
+\i (00:36:54) generaledit 
+\i (00:36:55) xdehilite 
+\i (00:36:55) xrefdes U5 
+\i (00:36:55) xname_flush 
+\t (00:36:55) Symbol "U5" dehighlighted.
+\i (00:36:55) done 
+\i (00:36:55) generaledit 
+\i (00:36:55) xhilite 
+\i (00:36:55) xrefdes U5 
+\i (00:36:55) xname_flush 
+\i (00:36:55) trapsize 534
+\t (00:36:55) Symbol "U5" highlighted.
+\i (00:36:55) done 
+\i (00:36:55) generaledit 
+\i (00:39:58) xhilite 
+\i (00:39:58) xrefdes U5 
+\i (00:39:58) xname_flush 
+\i (00:39:58) trapsize 534
+\t (00:39:58) Symbol "U5" highlighted.
+\i (00:39:58) done 
+\i (00:39:58) generaledit 
+\i (00:40:05) xdehilite 
+\i (00:40:05) xname_flush 
+\i (00:40:05) done 
+\i (00:40:05) generaledit 
+\i (00:40:36) xdehilite 
+\i (00:40:36) xrefdes U5 
+\i (00:40:36) xname_flush 
+\t (00:40:36) Symbol "U5" dehighlighted.
+\i (00:40:36) done 
+\i (00:40:36) generaledit 
+\i (00:40:49) xhilite 
+\i (00:40:49) xname_flush 
+\i (00:40:49) done 
+\i (00:40:49) generaledit 
+\i (00:42:04) xdehilite 
+\i (00:42:04) xname_flush 
+\i (00:42:04) done 
+\i (00:42:04) generaledit 
+\i (00:42:05) xhilite 
+\i (00:42:05) xname_flush 
+\i (00:42:05) done 
+\i (00:42:05) generaledit 
+\i (00:42:12) xdehilite 
+\i (00:42:12) xname_flush 
+\i (00:42:12) done 
+\i (00:42:12) generaledit 
+\i (00:42:13) xhilite 
+\i (00:42:13) xname_flush 
+\i (00:42:13) done 
+\i (00:42:13) generaledit 
+\i (00:42:16) xdehilite 
+\i (00:42:16) xname_flush 
+\i (00:42:16) done 
+\i (00:42:16) xhilite 
+\i (00:42:16) xname_flush 
+\i (00:42:16) done 
+\i (00:42:16) generaledit 
+\i (00:42:17) xdehilite 
+\i (00:42:18) xname_flush 
+\i (00:42:18) done 
+\i (00:42:18) generaledit 
+\i (00:42:18) xhilite 
+\i (00:42:18) xname_flush 
+\i (00:42:18) done 
+\i (00:42:18) generaledit 
+\i (00:42:24) xdehilite 
+\i (00:42:24) xname_flush 
+\i (00:42:24) done 
+\i (00:42:24) generaledit 
+\i (00:42:26) xhilite 
+\i (00:42:26) xname_flush 
+\i (00:42:26) done 
+\i (00:42:26) generaledit 
+\i (00:42:26) xdehilite 
+\i (00:42:26) xname_flush 
+\i (00:42:26) done 
+\i (00:42:26) xhilite 
+\i (00:42:26) xname_flush 
+\i (00:42:26) done 
+\i (00:42:26) generaledit 
+\i (00:42:27) xdehilite 
+\i (00:42:27) xname_flush 
+\i (00:42:27) done 
+\i (00:42:27) generaledit 
+\i (00:42:28) xhilite 
+\i (00:42:28) xname_flush 
+\i (00:42:28) done 
+\i (00:42:28) generaledit 
+\i (00:42:38) xdehilite 
+\i (00:42:38) xname_flush 
+\i (00:42:38) done 
+\i (00:42:38) generaledit 
+\i (00:42:39) xhilite 
+\i (00:42:39) xname_flush 
+\i (00:42:39) done 
+\i (00:42:39) generaledit 
+\i (00:43:12) xdehilite 
+\i (00:43:12) xname_flush 
+\i (00:43:12) done 
+\i (00:43:12) xhilite 
+\i (00:43:12) xname_flush 
+\i (00:43:12) done 
+\i (00:43:12) generaledit 
+\i (00:43:14) xdehilite 
+\i (00:43:14) xname_flush 
+\i (00:43:14) done 
+\i (00:43:14) generaledit 
+\i (00:43:15) xhilite 
+\i (00:43:15) xname_flush 
+\i (00:43:15) done 
+\i (00:43:16) generaledit 
+\i (00:43:22) xdehilite 
+\i (00:43:22) xname_flush 
+\i (00:43:22) done 
+\i (00:43:22) generaledit 
+\i (00:46:27) xhilite 
+\i (00:46:27) xname_flush 
+\i (00:46:27) done 
+\i (00:46:27) generaledit 
+\i (66:48:09) xhilite 
+\i (66:48:09) xname_flush 
+\i (66:48:09) done 
+\i (66:48:09) generaledit 
+\i (66:48:14) xhilite 
+\i (66:48:14) xname_flush 
+\i (66:48:14) done 
+\i (66:48:14) generaledit 
+\i (66:48:16) xhilite 
+\i (66:48:16) xname_flush 
+\i (66:48:16) done 
+\i (66:48:16) generaledit 
+\i (66:48:17) xhilite 
+\i (66:48:17) xname_flush 
+\i (66:48:17) done 
+\i (66:48:17) generaledit 
+\i (66:48:20) xhilite 
+\i (66:48:20) xname_flush 
+\i (66:48:20) done 
+\i (66:48:21) generaledit 
+\i (66:48:21) xdehilite 
+\i (66:48:21) xname_flush 
+\i (66:48:21) done 
+\i (66:48:21) generaledit 
+\i (66:48:26) xhilite 
+\i (66:48:26) xname_flush 
+\i (66:48:26) done 
+\i (66:48:26) generaledit 
+\i (66:48:28) xdehilite 
+\i (66:48:28) xname_flush 
+\i (66:48:28) done 
+\i (66:48:28) generaledit 
+\i (66:48:29) xhilite 
+\i (66:48:29) xname_flush 
+\i (66:48:29) done 
+\i (66:48:29) generaledit 
+\i (66:48:38) xhilite 
+\i (66:48:38) xname_flush 
+\i (66:48:38) done 
+\i (66:48:38) generaledit 
+\i (66:48:40) xdehilite 
+\i (66:48:40) xname_flush 
+\i (66:48:40) done 
+\i (66:48:40) generaledit 
+\i (66:48:41) xhilite 
+\i (66:48:41) xname_flush 
+\i (66:48:41) done 
+\i (66:48:41) generaledit 
+\i (66:48:45) xhilite 
+\i (66:48:45) xname_flush 
+\i (66:48:45) done 
+\i (66:48:45) generaledit 
+\i (66:48:46) xdehilite 
+\i (66:48:46) xname_flush 
+\i (66:48:46) done 
+\i (66:48:46) xhilite 
+\i (66:48:46) xname_flush 
+\i (66:48:46) done 
+\i (66:48:46) generaledit 
+\i (66:48:48) xdehilite 
+\i (66:48:48) xname_flush 
+\i (66:48:48) done 
+\i (66:48:48) xhilite 
+\i (66:48:48) xname_flush 
+\i (66:48:48) done 
+\i (66:48:48) generaledit 
+\i (66:48:49) xdehilite 
+\i (66:48:49) xname_flush 
+\i (66:48:49) done 
+\i (66:48:49) generaledit 
+\i (66:48:50) xhilite 
+\i (66:48:50) xname_flush 
+\i (66:48:50) done 
+\i (66:48:50) generaledit 
+\i (66:48:54) xdehilite 
+\i (66:48:54) xname_flush 
+\i (66:48:54) done 
+\i (66:48:54) generaledit 
+\i (66:48:56) xhilite 
+\i (66:48:56) xname_flush 
+\i (66:48:56) done 
+\i (66:48:56) generaledit 
+\i (66:48:57) xdehilite 
+\i (66:48:57) xname_flush 
+\i (66:48:57) done 
+\i (66:48:57) generaledit 
+\i (66:48:58) xhilite 
+\i (66:48:58) xname_flush 
+\i (66:48:58) done 
+\i (66:48:58) generaledit 
+\i (66:48:59) xdehilite 
+\i (66:48:59) xname_flush 
+\i (66:48:59) done 
+\i (66:48:59) xhilite 
+\i (66:48:59) xname_flush 
+\i (66:48:59) done 
+\i (66:48:59) generaledit 
+\i (66:49:00) xdehilite 
+\i (66:49:00) xname_flush 
+\i (66:49:00) done 
+\i (66:49:00) generaledit 
+\i (66:49:03) xhilite 
+\i (66:49:03) xname_flush 
+\i (66:49:03) done 
+\i (66:49:03) generaledit 
+\i (66:49:06) xdehilite 
+\i (66:49:06) xname_flush 
+\i (66:49:06) done 
+\i (66:49:06) generaledit 
+\i (66:49:07) xhilite 
+\i (66:49:07) xname_flush 
+\i (66:49:07) done 
+\i (66:49:07) generaledit 
+\i (66:49:08) xdehilite 
+\i (66:49:08) xname_flush 
+\i (66:49:08) done 
+\i (66:49:08) generaledit 
+\i (66:49:09) xhilite 
+\i (66:49:09) xname_flush 
+\i (66:49:09) done 
+\i (66:49:09) generaledit 
+\i (66:49:10) xdehilite 
+\i (66:49:10) xname_flush 
+\i (66:49:10) done 
+\i (66:49:10) generaledit 
+\i (66:49:10) xhilite 
+\i (66:49:10) xname_flush 
+\i (66:49:10) done 
+\i (66:49:10) generaledit 
+\i (66:49:11) xdehilite 
+\i (66:49:11) xname_flush 
+\i (66:49:11) done 
+\i (66:49:11) generaledit 
+\i (66:49:11) xhilite 
+\i (66:49:11) xname_flush 
+\i (66:49:11) done 
+\i (66:49:11) generaledit 
+\i (66:49:15) xdehilite 
+\i (66:49:15) xname_flush 
+\i (66:49:15) done 
+\i (66:49:15) generaledit 
+\i (66:51:51) xhilite 
+\i (66:51:51) xname_flush 
+\i (66:51:51) done 
+\i (66:51:51) generaledit 
+\i (66:51:52) xdehilite 
+\i (66:51:52) xname_flush 
+\i (66:51:52) done 
+\i (66:51:52) generaledit 
+\i (66:52:03) xhilite 
+\i (66:52:03) xname_flush 
+\i (66:52:03) done 
+\i (66:52:03) generaledit 
+\i (66:53:07) xhilite 
+\i (66:53:07) xname_flush 
+\i (66:53:07) done 
+\i (66:53:07) generaledit 
+\i (66:53:09) xdehilite 
+\i (66:53:09) xname_flush 
+\i (66:53:09) done 
+\i (66:53:09) generaledit 
+\i (67:02:25) xhilite 
+\i (67:02:25) xname_flush 
+\i (67:02:25) done 
+\i (67:02:25) generaledit 
+\i (67:02:33) xdehilite 
+\i (67:02:33) xname_flush 
+\i (67:02:33) done 
+\i (67:02:33) generaledit 
+\i (67:02:35) xhilite 
+\i (67:02:35) xname_flush 
+\i (67:02:35) done 
+\i (67:02:35) generaledit 
+\i (67:02:40) xdehilite 
+\i (67:02:40) xname_flush 
+\i (67:02:40) done 
+\i (67:02:40) generaledit 
+\i (67:11:28) xhilite 
+\i (67:11:28) xname_flush 
+\i (67:11:28) done 
+\i (67:11:28) generaledit 
+\i (67:11:29) xdehilite 
+\i (67:11:29) xname_flush 
+\i (67:11:29) done 
+\i (67:11:29) generaledit 
+\i (67:23:08) xhilite 
+\i (67:23:08) xname_flush 
+\i (67:23:08) done 
+\i (67:23:08) generaledit 
+\i (67:23:10) xdehilite 
+\i (67:23:10) xname_flush 
+\i (67:23:10) done 
+\i (67:23:10) generaledit 
+\i (67:23:13) xhilite 
+\i (67:23:13) xname_flush 
+\i (67:23:13) done 
+\i (67:23:13) generaledit 
+\i (67:23:14) xdehilite 
+\i (67:23:14) xname_flush 
+\i (67:23:14) done 
+\i (67:23:14) generaledit 
+\i (67:23:15) xhilite 
+\i (67:23:15) xname_flush 
+\i (67:23:15) done 
+\i (67:23:15) generaledit 
+\i (67:23:24) xdehilite 
+\i (67:23:24) xname_flush 
+\i (67:23:24) done 
+\i (67:23:24) generaledit 
+\i (67:23:26) xhilite 
+\i (67:23:26) xname_flush 
+\i (67:23:26) done 
+\i (67:23:26) generaledit 
+\i (67:23:27) xdehilite 
+\i (67:23:27) xname_flush 
+\i (67:23:27) done 
+\i (67:23:27) generaledit 
+\i (67:23:28) xhilite 
+\i (67:23:28) xname_flush 
+\i (67:23:28) done 
+\i (67:23:28) generaledit 
+\i (67:23:30) xdehilite 
+\i (67:23:30) xname_flush 
+\i (67:23:30) done 
+\i (67:23:30) generaledit 
+\i (67:23:31) xhilite 
+\i (67:23:31) xname_flush 
+\i (67:23:31) done 
+\i (67:23:31) generaledit 
+\i (67:23:33) xdehilite 
+\i (67:23:33) xname_flush 
+\i (67:23:33) done 
+\i (67:23:33) generaledit 
+\i (67:23:33) xhilite 
+\i (67:23:33) xname_flush 
+\i (67:23:33) done 
+\i (67:23:34) generaledit 
+\i (67:23:45) xdehilite 
+\i (67:23:45) xname_flush 
+\i (67:23:45) done 
+\i (67:23:45) generaledit 
+\i (67:23:47) xhilite 
+\i (67:23:47) xname_flush 
+\i (67:23:47) done 
+\i (67:23:47) generaledit 
+\i (67:23:50) xdehilite 
+\i (67:23:50) xname_flush 
+\i (67:23:50) done 
+\i (67:23:50) generaledit 
+\i (67:23:51) xhilite 
+\i (67:23:51) xname_flush 
+\i (67:23:51) done 
+\i (67:23:51) generaledit 
+\i (67:23:52) xdehilite 
+\i (67:23:52) xname_flush 
+\i (67:23:52) done 
+\i (67:23:52) generaledit 
+\i (67:23:54) xhilite 
+\i (67:23:54) xname_flush 
+\i (67:23:54) done 
+\i (67:23:54) generaledit 
+\i (67:23:55) xdehilite 
+\i (67:23:55) xname_flush 
+\i (67:23:55) done 
+\i (67:23:55) generaledit 
+\i (67:25:20) xhilite 
+\i (67:25:20) xname_flush 
+\i (67:25:20) done 
+\i (67:25:20) generaledit 
+\i (67:25:20) xdehilite 
+\i (67:25:20) xname_flush 
+\i (67:25:20) done 
+\i (67:25:20) generaledit 
+\i (67:26:40) xhilite 
+\i (67:26:40) xname_flush 
+\i (67:26:40) done 
+\i (67:26:40) generaledit 
+\i (67:26:42) xdehilite 
+\i (67:26:43) xname_flush 
+\i (67:26:43) done 
+\i (67:26:43) generaledit 
+\i (67:26:43) xhilite 
+\i (67:26:43) xname_flush 
+\i (67:26:43) done 
+\i (67:26:43) generaledit 
+\i (67:26:47) xdehilite 
+\i (67:26:47) xname_flush 
+\i (67:26:47) done 
+\i (67:26:47) generaledit 
+\i (67:27:01) xhilite 
+\i (67:27:01) xname_flush 
+\i (67:27:01) done 
+\i (67:27:01) generaledit 
+\i (67:27:08) xdehilite 
+\i (67:27:08) xname_flush 
+\i (67:27:08) done 
+\i (67:27:08) xhilite 
+\i (67:27:08) xname_flush 
+\i (67:27:08) done 
+\i (67:27:08) generaledit 
+\i (67:27:09) xdehilite 
+\i (67:27:09) xname_flush 
+\i (67:27:09) done 
+\i (67:27:09) xhilite 
+\i (67:27:09) xname_flush 
+\i (67:27:09) done 
+\i (67:27:09) generaledit 
+\i (67:27:13) xdehilite 
+\i (67:27:13) xname_flush 
+\i (67:27:13) done 
+\i (67:27:13) xhilite 
+\i (67:27:13) xname_flush 
+\i (67:27:13) done 
+\i (67:27:13) generaledit 
+\i (67:27:19) xdehilite 
+\i (67:27:19) xname_flush 
+\i (67:27:19) done 
+\i (67:27:19) generaledit 
+\i (67:27:22) xdehilite 
+\i (67:27:22) xname_flush 
+\i (67:27:22) done 
+\i (67:27:22) generaledit 
+\i (67:28:28) xhilite 
+\i (67:28:28) xname_flush 
+\i (67:28:28) done 
+\i (67:28:28) generaledit 
+\i (67:28:31) xdehilite 
+\i (67:28:31) xname_flush 
+\i (67:28:31) done 
+\i (67:28:31) generaledit 
+\i (67:28:33) xhilite 
+\i (67:28:33) xname_flush 
+\i (67:28:33) done 
+\i (67:28:33) generaledit 
+\i (67:28:39) xdehilite 
+\i (67:28:39) xname_flush 
+\i (67:28:39) done 
+\i (67:28:39) generaledit 
+\i (67:29:19) xhilite 
+\i (67:29:19) xname_flush 
+\i (67:29:19) done 
+\i (67:29:19) generaledit 
+\i (67:29:20) xdehilite 
+\i (67:29:20) xname_flush 
+\i (67:29:20) done 
+\i (67:29:20) generaledit 
+\i (67:29:30) xhilite 
+\i (67:29:30) xname_flush 
+\i (67:29:30) done 
+\i (67:29:30) generaledit 
+\i (67:29:32) xdehilite 
+\i (67:29:32) xname_flush 
+\i (67:29:32) done 
+\i (67:29:32) generaledit 
+\i (67:29:34) xhilite 
+\i (67:29:34) xname_flush 
+\i (67:29:34) done 
+\i (67:29:34) generaledit 
+\i (67:29:35) xdehilite 
+\i (67:29:35) xname_flush 
+\i (67:29:35) done 
+\i (67:29:35) xhilite 
+\i (67:29:35) xname_flush 
+\i (67:29:35) done 
+\i (67:29:36) generaledit 
+\i (67:29:37) xdehilite 
+\i (67:29:37) xname_flush 
+\i (67:29:37) done 
+\i (67:29:37) generaledit 
+\i (67:29:38) xhilite 
+\i (67:29:38) xname_flush 
+\i (67:29:38) done 
+\i (67:29:38) generaledit 
+\i (67:29:40) xdehilite 
+\i (67:29:40) xname_flush 
+\i (67:29:40) done 
+\i (67:29:40) generaledit 
+\i (67:29:45) xhilite 
+\i (67:29:45) xname_flush 
+\i (67:29:45) done 
+\i (67:29:45) generaledit 
+\i (67:29:46) xdehilite 
+\i (67:29:46) xname_flush 
+\i (67:29:46) done 
+\i (67:29:46) xhilite 
+\i (67:29:46) xname_flush 
+\i (67:29:46) done 
+\i (67:29:46) generaledit 
+\i (67:29:47) xdehilite 
+\i (67:29:47) xname_flush 
+\i (67:29:47) done 
+\i (67:29:47) generaledit 
+\i (67:29:48) xhilite 
+\i (67:29:48) xname_flush 
+\i (67:29:48) done 
+\i (67:29:48) generaledit 
+\i (67:29:49) xdehilite 
+\i (67:29:49) xname_flush 
+\i (67:29:49) done 
+\i (67:29:49) generaledit 
+\i (67:29:55) xhilite 
+\i (67:29:55) xname_flush 
+\i (67:29:55) done 
+\i (67:29:55) generaledit 
+\i (67:29:57) xdehilite 
+\i (67:29:57) xname_flush 
+\i (67:29:57) done 
+\i (67:29:57) xhilite 
+\i (67:29:57) xname_flush 
+\i (67:29:57) done 
+\i (67:29:57) generaledit 
+\i (67:29:58) xdehilite 
+\i (67:29:58) xname_flush 
+\i (67:29:58) done 
+\i (67:29:58) generaledit 
+\i (67:30:05) xhilite 
+\i (67:30:05) xname_flush 
+\i (67:30:05) done 
+\i (67:30:05) generaledit 
+\i (67:30:26) xdehilite 
+\i (67:30:26) xname_flush 
+\i (67:30:26) done 
+\i (67:30:26) generaledit 
+\i (67:30:55) xhilite 
+\i (67:30:55) xname_flush 
+\i (67:30:55) done 
+\i (67:30:55) generaledit 
+\i (67:30:56) xdehilite 
+\i (67:30:56) xname_flush 
+\i (67:30:56) done 
+\i (67:30:56) generaledit 
+\i (67:31:11) xhilite 
+\i (67:31:11) xname_flush 
+\i (67:31:11) done 
+\i (67:31:11) generaledit 
+\i (67:31:21) xdehilite 
+\i (67:31:21) xname_flush 
+\i (67:31:21) done 
+\i (67:31:21) generaledit 
+\i (67:31:22) xhilite 
+\i (67:31:23) xname_flush 
+\i (67:31:23) done 
+\i (67:31:23) generaledit 
+\i (67:31:23) xdehilite 
+\i (67:31:23) xname_flush 
+\i (67:31:23) done 
+\i (67:31:23) xhilite 
+\i (67:31:23) xname_flush 
+\i (67:31:23) done 
+\i (67:31:24) generaledit 
+\i (67:31:25) xdehilite 
+\i (67:31:25) xname_flush 
+\i (67:31:25) done 
+\i (67:31:25) generaledit 
+\i (67:31:31) xhilite 
+\i (67:31:31) xname_flush 
+\i (67:31:31) done 
+\i (67:31:31) generaledit 
+\i (67:31:32) xdehilite 
+\i (67:31:32) xname_flush 
+\i (67:31:32) done 
+\i (67:31:32) generaledit 
+\i (67:31:35) xdehilite 
+\i (67:31:35) xname_flush 
+\i (67:31:35) done 
+\i (67:31:35) generaledit 
+\i (67:31:36) xhilite 
+\i (67:31:36) xname_flush 
+\i (67:31:36) done 
+\i (67:31:36) generaledit 
+\i (67:31:39) xdehilite 
+\i (67:31:39) xname_flush 
+\i (67:31:39) done 
+\i (67:31:39) generaledit 
+\i (67:31:43) xhilite 
+\i (67:31:43) xname_flush 
+\i (67:31:43) done 
+\i (67:31:43) generaledit 
+\i (67:31:44) xdehilite 
+\i (67:31:44) xname_flush 
+\i (67:31:44) done 
+\i (67:31:44) generaledit 
+\i (67:31:45) xhilite 
+\i (67:31:45) xname_flush 
+\i (67:31:45) done 
+\i (67:31:45) generaledit 
+\i (67:31:46) xdehilite 
+\i (67:31:46) xname_flush 
+\i (67:31:46) done 
+\i (67:31:46) generaledit 
+\i (67:31:58) xhilite 
+\i (67:31:58) xname_flush 
+\i (67:31:58) done 
+\i (67:31:58) generaledit 
+\i (67:31:59) xdehilite 
+\i (67:31:59) xname_flush 
+\i (67:31:59) done 
+\i (67:31:59) xhilite 
+\i (67:31:59) xname_flush 
+\i (67:31:59) done 
+\i (67:31:59) generaledit 
+\i (67:32:00) xdehilite 
+\i (67:32:00) xname_flush 
+\i (67:32:00) done 
+\i (67:32:00) generaledit 
+\i (67:32:13) xhilite 
+\i (67:32:13) xname_flush 
+\i (67:32:13) done 
+\i (67:32:13) generaledit 
+\i (67:32:23) xdehilite 
+\i (67:32:23) xname_flush 
+\i (67:32:23) done 
+\i (67:32:23) generaledit 
+\i (67:32:35) xhilite 
+\i (67:32:35) xname_flush 
+\i (67:32:35) done 
+\i (67:32:35) generaledit 
+\i (67:32:36) xdehilite 
+\i (67:32:36) xname_flush 
+\i (67:32:36) done 
+\i (67:32:36) xhilite 
+\i (67:32:36) xname_flush 
+\i (67:32:36) done 
+\i (67:32:36) generaledit 
+\i (67:32:42) xdehilite 
+\i (67:32:42) xname_flush 
+\i (67:32:42) done 
+\i (67:32:42) generaledit 
+\i (67:32:44) xhilite 
+\i (67:32:44) xname_flush 
+\i (67:32:44) done 
+\i (67:32:44) generaledit 
+\i (67:32:54) xdehilite 
+\i (67:32:54) xname_flush 
+\i (67:32:54) done 
+\i (67:32:54) generaledit 
+\i (67:32:56) xhilite 
+\i (67:32:56) xname_flush 
+\i (67:32:56) done 
+\i (67:32:56) generaledit 
+\i (67:32:57) xdehilite 
+\i (67:32:57) xname_flush 
+\i (67:32:57) done 
+\i (67:32:57) xhilite 
+\i (67:32:57) xname_flush 
+\i (67:32:57) done 
+\i (67:32:57) generaledit 
+\i (67:32:59) xdehilite 
+\i (67:32:59) xname_flush 
+\i (67:32:59) done 
+\i (67:32:59) generaledit 
+\i (67:33:30) xhilite 
+\i (67:33:30) xname_flush 
+\i (67:33:30) done 
+\i (67:33:30) generaledit 
+\i (67:33:38) xdehilite 
+\i (67:33:38) xname_flush 
+\i (67:33:38) done 
+\i (67:33:38) generaledit 
+\i (67:34:04) xhilite 
+\i (67:34:04) xname_flush 
+\i (67:34:04) done 
+\i (67:34:04) generaledit 
+\i (67:34:08) xdehilite 
+\i (67:34:08) xname_flush 
+\i (67:34:08) done 
+\i (67:34:08) generaledit 
+\i (67:34:09) xhilite 
+\i (67:34:09) xname_flush 
+\i (67:34:09) done 
+\i (67:34:09) generaledit 
+\i (67:34:12) xdehilite 
+\i (67:34:12) xname_flush 
+\i (67:34:12) done 
+\i (67:34:12) xhilite 
+\i (67:34:12) xname_flush 
+\i (67:34:12) done 
+\i (67:34:12) generaledit 
+\i (67:34:18) xdehilite 
+\i (67:34:18) xname_flush 
+\i (67:34:18) done 
+\i (67:34:18) generaledit 
+\i (67:34:20) xhilite 
+\i (67:34:20) xname_flush 
+\i (67:34:20) done 
+\i (67:34:20) generaledit 
+\i (67:34:24) xdehilite 
+\i (67:34:24) xname_flush 
+\i (67:34:24) done 
+\i (67:34:24) xhilite 
+\i (67:34:24) xname_flush 
+\i (67:34:24) done 
+\i (67:34:24) generaledit 
+\i (67:34:25) xdehilite 
+\i (67:34:25) xname_flush 
+\i (67:34:25) done 
+\i (67:34:25) generaledit 
+\i (67:34:27) xhilite 
+\i (67:34:27) xname_flush 
+\i (67:34:27) done 
+\i (67:34:27) generaledit 
+\i (67:34:29) xdehilite 
+\i (67:34:29) xname_flush 
+\i (67:34:29) done 
+\i (67:34:29) generaledit 
+\i (67:34:29) xhilite 
+\i (67:34:29) xname_flush 
+\i (67:34:29) done 
+\i (67:34:29) generaledit 
+\i (67:34:30) xhilite 
+\i (67:34:30) xname_flush 
+\i (67:34:30) done 
+\i (67:34:30) generaledit 
+\i (67:34:33) xhilite 
+\i (67:34:33) xname_flush 
+\i (67:34:33) done 
+\i (67:34:33) generaledit 
+\i (67:34:38) xdehilite 
+\i (67:34:38) xname_flush 
+\i (67:34:38) done 
+\i (67:34:38) generaledit 
+\i (67:34:39) xhilite 
+\i (67:34:39) xname_flush 
+\i (67:34:39) done 
+\i (67:34:39) generaledit 
+\i (67:34:57) xhilite 
+\i (67:34:57) xname_flush 
+\i (67:34:57) done 
+\i (67:34:57) generaledit 
+\i (67:35:04) xdehilite 
+\i (67:35:04) xname_flush 
+\i (67:35:04) done 
+\i (67:35:04) generaledit 
+\i (67:35:21) xhilite 
+\i (67:35:21) xname_flush 
+\i (67:35:21) done 
+\i (67:35:21) generaledit 
+\i (67:35:22) xdehilite 
+\i (67:35:22) xname_flush 
+\i (67:35:22) done 
+\i (67:35:22) xhilite 
+\i (67:35:22) xname_flush 
+\i (67:35:22) done 
+\i (67:35:22) generaledit 
+\i (67:35:26) xdehilite 
+\i (67:35:26) xname_flush 
+\i (67:35:26) done 
+\i (67:35:27) generaledit 
+\i (67:35:28) xhilite 
+\i (67:35:28) xname_flush 
+\i (67:35:28) done 
+\i (67:35:28) generaledit 
+\i (67:35:29) xdehilite 
+\i (67:35:29) xname_flush 
+\i (67:35:29) done 
+\i (67:35:29) xhilite 
+\i (67:35:29) xname_flush 
+\i (67:35:29) done 
+\i (67:35:29) generaledit 
+\i (67:35:30) xdehilite 
+\i (67:35:30) xname_flush 
+\i (67:35:30) done 
+\i (67:35:30) generaledit 
+\i (67:35:31) xhilite 
+\i (67:35:31) xname_flush 
+\i (67:35:31) done 
+\i (67:35:31) generaledit 
+\i (67:35:31) xdehilite 
+\i (67:35:31) xname_flush 
+\i (67:35:31) done 
+\i (67:35:31) xhilite 
+\i (67:35:31) xname_flush 
+\i (67:35:31) done 
+\i (67:35:31) generaledit 
+\i (67:35:37) xdehilite 
+\i (67:35:37) xname_flush 
+\i (67:35:37) done 
+\i (67:35:37) generaledit 
+\i (67:35:38) xhilite 
+\i (67:35:38) xname_flush 
+\i (67:35:38) done 
+\i (67:35:39) generaledit 
+\i (67:35:41) xdehilite 
+\i (67:35:41) xname_flush 
+\i (67:35:41) done 
+\i (67:35:41) generaledit 
+\i (67:35:42) xhilite 
+\i (67:35:42) xname_flush 
+\i (67:35:42) done 
+\i (67:35:42) generaledit 
+\i (67:37:08) xhilite 
+\i (67:37:08) xname_flush 
+\i (67:37:08) done 
+\i (67:37:08) generaledit 
+\i (67:37:14) xhilite 
+\i (67:37:14) xname_flush 
+\i (67:37:14) done 
+\i (67:37:14) generaledit 
+\i (67:37:16) xdehilite 
+\i (67:37:16) xname_flush 
+\i (67:37:16) done 
+\i (67:37:16) generaledit 
+\i (67:37:56) xhilite 
+\i (67:37:56) xname_flush 
+\i (67:37:56) done 
+\i (67:37:56) generaledit 
+\i (67:37:58) xdehilite 
+\i (67:37:58) xname_flush 
+\i (67:37:58) done 
+\i (67:37:58) xhilite 
+\i (67:37:58) xname_flush 
+\i (67:37:58) done 
+\i (67:37:58) generaledit 
+\i (67:37:59) xdehilite 
+\i (67:37:59) xname_flush 
+\i (67:37:59) done 
+\i (67:37:59) generaledit 
+\i (67:38:04) xhilite 
+\i (67:38:04) xname_flush 
+\i (67:38:04) done 
+\i (67:38:04) generaledit 
+\i (67:38:04) xdehilite 
+\i (67:38:04) xname_flush 
+\i (67:38:04) done 
+\i (67:38:05) generaledit 
+\i (67:38:46) xhilite 
+\i (67:38:46) xname_flush 
+\i (67:38:46) done 
+\i (67:38:46) generaledit 
+\i (67:38:47) xdehilite 
+\i (67:38:47) xname_flush 
+\i (67:38:47) done 
+\i (67:38:47) generaledit 
+\i (68:38:09) xhilite 
+\i (68:38:09) xname_flush 
+\i (68:38:09) done 
+\i (68:38:10) generaledit 
+\i (68:38:11) xdehilite 
+\i (68:38:11) xname_flush 
+\i (68:38:11) done 
+\i (68:38:11) generaledit 
+\i (68:38:15) xhilite 
+\i (68:38:15) xname_flush 
+\i (68:38:15) done 
+\i (68:38:15) generaledit 
+\i (68:38:17) xdehilite 
+\i (68:38:17) xname_flush 
+\i (68:38:17) done 
+\i (68:38:17) generaledit 
+\i (68:38:31) xhilite 
+\i (68:38:31) xname_flush 
+\i (68:38:31) done 
+\i (68:38:31) generaledit 
+\i (68:38:32) xdehilite 
+\i (68:38:32) xname_flush 
+\i (68:38:32) done 
+\i (68:38:32) generaledit 
+\i (68:38:39) xdehilite 
+\i (68:38:39) xname_flush 
+\i (68:38:39) done 
+\i (68:38:39) generaledit 
+\i (68:38:56) xhilite 
+\i (68:38:56) xname_flush 
+\i (68:38:56) done 
+\i (68:38:56) generaledit 
+\i (68:38:58) xdehilite 
+\i (68:38:58) xname_flush 
+\i (68:38:58) done 
+\i (68:38:58) generaledit 
+\i (68:39:08) xhilite 
+\i (68:39:08) xname_flush 
+\i (68:39:08) done 
+\i (68:39:08) generaledit 
+\i (68:39:09) xdehilite 
+\i (68:39:09) xname_flush 
+\i (68:39:09) done 
+\i (68:39:09) generaledit 
+\i (68:39:10) xhilite 
+\i (68:39:10) xname_flush 
+\i (68:39:10) done 
+\i (68:39:10) generaledit 
+\i (68:39:12) xdehilite 
+\i (68:39:12) xname_flush 
+\i (68:39:12) done 
+\i (68:39:12) xhilite 
+\i (68:39:12) xname_flush 
+\i (68:39:12) done 
+\i (68:39:12) generaledit 
+\i (68:39:16) xdehilite 
+\i (68:39:16) xname_flush 
+\i (68:39:16) done 
+\i (68:39:16) generaledit 
+\i (68:39:35) xhilite 
+\i (68:39:35) xname_flush 
+\i (68:39:35) done 
+\i (68:39:35) generaledit 
+\i (68:39:36) xdehilite 
+\i (68:39:36) xname_flush 
+\i (68:39:36) done 
+\i (68:39:36) generaledit 
+\i (68:39:51) xhilite 
+\i (68:39:51) xname_flush 
+\i (68:39:51) done 
+\i (68:39:51) generaledit 
+\i (68:39:52) xdehilite 
+\i (68:39:52) xname_flush 
+\i (68:39:52) done 
+\i (68:39:52) generaledit 
+\i (68:40:40) xhilite 
+\i (68:40:40) xname_flush 
+\i (68:40:40) done 
+\i (68:40:40) generaledit 
+\i (68:40:43) xdehilite 
+\i (68:40:43) xname_flush 
+\i (68:40:43) done 
+\i (68:40:43) xhilite 
+\i (68:40:43) xname_flush 
+\i (68:40:43) done 
+\i (68:40:43) generaledit 
+\i (68:40:44) xdehilite 
+\i (68:40:44) xname_flush 
+\i (68:40:44) done 
+\i (68:40:44) generaledit 
+\i (68:40:52) xhilite 
+\i (68:40:52) xname_flush 
+\i (68:40:52) done 
+\i (68:40:52) generaledit 
+\i (68:40:53) xdehilite 
+\i (68:40:54) xname_flush 
+\i (68:40:54) done 
+\i (68:40:54) xhilite 
+\i (68:40:54) xname_flush 
+\i (68:40:54) done 
+\i (68:40:54) generaledit 
+\i (68:40:59) xdehilite 
+\i (68:40:59) xname_flush 
+\i (68:40:59) done 
+\i (68:40:59) generaledit 
+\i (68:41:02) xhilite 
+\i (68:41:02) xname_flush 
+\i (68:41:02) done 
+\i (68:41:02) generaledit 
+\i (68:41:03) xdehilite 
+\i (68:41:03) xname_flush 
+\i (68:41:03) done 
+\i (68:41:03) generaledit 
+\i (68:41:13) xhilite 
+\i (68:41:13) xname_flush 
+\i (68:41:13) done 
+\i (68:41:13) generaledit 
+\i (68:41:14) xdehilite 
+\i (68:41:14) xname_flush 
+\i (68:41:14) done 
+\i (68:41:14) xhilite 
+\i (68:41:14) xname_flush 
+\i (68:41:14) done 
+\i (68:41:14) generaledit 
+\i (68:41:16) xdehilite 
+\i (68:41:16) xname_flush 
+\i (68:41:16) done 
+\i (68:41:16) generaledit 
+\i (68:41:25) xdehilite 
+\i (68:41:25) xname_flush 
+\i (68:41:25) done 
+\i (68:41:25) generaledit 
+\i (68:47:56) xhilite 
+\i (68:47:56) xname_flush 
+\i (68:47:56) done 
+\i (68:47:56) generaledit 
+\i (68:47:58) xdehilite 
+\i (68:47:58) xname_flush 
+\i (68:47:58) done 
+\i (68:47:58) xhilite 
+\i (68:47:58) xname_flush 
+\i (68:47:58) done 
+\i (68:47:58) generaledit 
+\i (68:48:00) xdehilite 
+\i (68:48:00) xname_flush 
+\i (68:48:00) done 
+\i (68:48:00) generaledit 
+\i (68:48:01) xhilite 
+\i (68:48:01) xname_flush 
+\i (68:48:01) done 
+\i (68:48:01) generaledit 
+\i (68:48:03) xdehilite 
+\i (68:48:03) xname_flush 
+\i (68:48:03) done 
+\i (68:48:03) generaledit 
+\i (68:48:04) xhilite 
+\i (68:48:04) xname_flush 
+\i (68:48:04) done 
+\i (68:48:04) generaledit 
+\i (68:48:05) xdehilite 
+\i (68:48:05) xname_flush 
+\i (68:48:05) done 
+\i (68:48:05) generaledit 
+\i (68:48:06) xhilite 
+\i (68:48:06) xname_flush 
+\i (68:48:06) done 
+\i (68:48:06) generaledit 
+\i (68:48:07) xdehilite 
+\i (68:48:07) xname_flush 
+\i (68:48:07) done 
+\i (68:48:07) xhilite 
+\i (68:48:07) xname_flush 
+\i (68:48:07) done 
+\i (68:48:07) generaledit 
+\i (68:48:15) xdehilite 
+\i (68:48:15) xname_flush 
+\i (68:48:15) done 
+\i (68:48:15) xhilite 
+\i (68:48:15) xname_flush 
+\i (68:48:15) done 
+\i (68:48:15) generaledit 
+\i (68:48:16) xdehilite 
+\i (68:48:16) xname_flush 
+\i (68:48:16) done 
+\i (68:48:16) generaledit 
+\i (68:48:31) xhilite 
+\i (68:48:31) xname_flush 
+\i (68:48:31) done 
+\i (68:48:31) generaledit 
+\i (68:48:35) xdehilite 
+\i (68:48:35) xname_flush 
+\i (68:48:35) done 
+\i (68:48:35) generaledit 
+\i (68:48:36) xdehilite 
+\i (68:48:36) xname_flush 
+\i (68:48:36) done 
+\i (68:48:36) generaledit 
+\i (68:48:39) xhilite 
+\i (68:48:39) xname_flush 
+\i (68:48:39) done 
+\i (68:48:39) generaledit 
+\i (68:48:41) xhilite 
+\i (68:48:41) xname_flush 
+\i (68:48:41) done 
+\i (68:48:41) generaledit 
+\i (68:48:43) xhilite 
+\i (68:48:43) xname_flush 
+\i (68:48:43) done 
+\i (68:48:43) generaledit 
+\i (68:48:44) xhilite 
+\i (68:48:44) xname_flush 
+\i (68:48:44) done 
+\i (68:48:44) generaledit 
+\i (68:48:46) xhilite 
+\i (68:48:46) xname_flush 
+\i (68:48:46) done 
+\i (68:48:46) generaledit 
+\i (68:48:51) xdehilite 
+\i (68:48:51) xname_flush 
+\i (68:48:51) done 
+\i (68:48:51) xhilite 
+\i (68:48:51) xname_flush 
+\i (68:48:51) done 
+\i (68:48:51) generaledit 
+\i (68:48:52) xhilite 
+\i (68:48:52) xname_flush 
+\i (68:48:52) done 
+\i (68:48:52) generaledit 
+\i (68:48:53) xhilite 
+\i (68:48:53) xname_flush 
+\i (68:48:53) done 
+\i (68:48:53) generaledit 
+\i (68:49:05) xdehilite 
+\i (68:49:05) xname_flush 
+\i (68:49:05) done 
+\i (68:49:05) generaledit 
+\i (68:49:07) xhilite 
+\i (68:49:07) xname_flush 
+\i (68:49:07) done 
+\i (68:49:07) generaledit 
+\i (68:49:08) xdehilite 
+\i (68:49:08) xname_flush 
+\i (68:49:08) done 
+\i (68:49:08) xhilite 
+\i (68:49:08) xname_flush 
+\i (68:49:08) done 
+\i (68:49:08) generaledit 
+\i (68:49:09) xdehilite 
+\i (68:49:09) xname_flush 
+\i (68:49:09) done 
+\i (68:49:10) generaledit 
+\i (68:49:11) xhilite 
+\i (68:49:11) xname_flush 
+\i (68:49:11) done 
+\i (68:49:11) generaledit 
+\i (68:49:12) xdehilite 
+\i (68:49:12) xname_flush 
+\i (68:49:12) done 
+\i (68:49:12) generaledit 
+\i (68:49:13) xhilite 
+\i (68:49:13) xname_flush 
+\i (68:49:13) done 
+\i (68:49:13) generaledit 
+\i (68:49:14) xdehilite 
+\i (68:49:14) xname_flush 
+\i (68:49:14) done 
+\i (68:49:14) xhilite 
+\i (68:49:14) xname_flush 
+\i (68:49:14) done 
+\i (68:49:14) generaledit 
+\i (68:49:18) xdehilite 
+\i (68:49:18) xname_flush 
+\i (68:49:18) done 
+\i (68:49:18) xhilite 
+\i (68:49:18) xname_flush 
+\i (68:49:18) done 
+\i (68:49:18) generaledit 
+\i (68:49:20) xdehilite 
+\i (68:49:20) xname_flush 
+\i (68:49:20) done 
+\i (68:49:20) generaledit 
+\i (68:49:23) xhilite 
+\i (68:49:23) xname_flush 
+\i (68:49:23) done 
+\i (68:49:23) generaledit 
+\i (68:49:24) xdehilite 
+\i (68:49:24) xname_flush 
+\i (68:49:24) done 
+\i (68:49:24) generaledit 
+\i (68:49:25) xhilite 
+\i (68:49:25) xname_flush 
+\i (68:49:25) done 
+\i (68:49:25) generaledit 
+\i (68:49:26) xdehilite 
+\i (68:49:26) xname_flush 
+\i (68:49:26) done 
+\i (68:49:26) generaledit 
+\i (68:49:28) xhilite 
+\i (68:49:28) xname_flush 
+\i (68:49:28) done 
+\i (68:49:28) generaledit 
+\i (68:49:30) xdehilite 
+\i (68:49:30) xname_flush 
+\i (68:49:30) done 
+\i (68:49:30) xhilite 
+\i (68:49:30) xname_flush 
+\i (68:49:30) done 
+\i (68:49:30) generaledit 
+\i (68:49:31) xdehilite 
+\i (68:49:31) xname_flush 
+\i (68:49:31) done 
+\i (68:49:31) generaledit 
+\i (68:49:37) xhilite 
+\i (68:49:37) xname_flush 
+\i (68:49:37) done 
+\i (68:49:37) generaledit 
+\i (68:49:37) xdehilite 
+\i (68:49:37) xname_flush 
+\i (68:49:37) done 
+\i (68:49:37) generaledit 
+\i (68:50:39) xhilite 
+\i (68:50:39) xname_flush 
+\i (68:50:39) done 
+\i (68:50:39) generaledit 
+\i (68:50:42) xdehilite 
+\i (68:50:42) xname_flush 
+\i (68:50:42) done 
+\i (68:50:42) xhilite 
+\i (68:50:42) xname_flush 
+\i (68:50:42) done 
+\i (68:50:42) generaledit 
+\i (68:50:43) xdehilite 
+\i (68:50:43) xname_flush 
+\i (68:50:43) done 
+\i (68:50:43) generaledit 
+\i (68:51:08) xhilite 
+\i (68:51:08) xname_flush 
+\i (68:51:08) done 
+\i (68:51:08) generaledit 
+\i (68:51:09) xdehilite 
+\i (68:51:09) xname_flush 
+\i (68:51:09) done 
+\i (68:51:09) generaledit 
+\i (68:51:11) xhilite 
+\i (68:51:11) xname_flush 
+\i (68:51:11) done 
+\i (68:51:11) generaledit 
+\i (68:51:11) xdehilite 
+\i (68:51:11) xname_flush 
+\i (68:51:11) done 
+\i (68:51:12) generaledit 
+\i (68:51:19) xhilite 
+\i (68:51:19) xname_flush 
+\i (68:51:19) done 
+\i (68:51:19) generaledit 
+\i (68:51:22) xdehilite 
+\i (68:51:22) xname_flush 
+\i (68:51:22) done 
+\i (68:51:22) xhilite 
+\i (68:51:22) xname_flush 
+\i (68:51:22) done 
+\i (68:51:22) generaledit 
+\i (68:51:24) xdehilite 
+\i (68:51:24) xname_flush 
+\i (68:51:24) done 
+\i (68:51:24) generaledit 
+\i (68:51:27) xhilite 
+\i (68:51:27) xname_flush 
+\i (68:51:27) done 
+\i (68:51:27) generaledit 
+\i (68:51:28) xdehilite 
+\i (68:51:28) xname_flush 
+\i (68:51:28) done 
+\i (68:51:28) generaledit 
+\i (68:51:29) xhilite 
+\i (68:51:29) xname_flush 
+\i (68:51:29) done 
+\i (68:51:29) generaledit 
+\i (68:51:31) xdehilite 
+\i (68:51:31) xname_flush 
+\i (68:51:31) done 
+\i (68:51:31) generaledit 
+\i (68:51:32) xhilite 
+\i (68:51:32) xname_flush 
+\i (68:51:32) done 
+\i (68:51:32) generaledit 
+\i (68:51:33) xdehilite 
+\i (68:51:33) xname_flush 
+\i (68:51:33) done 
+\i (68:51:33) xhilite 
+\i (68:51:33) xname_flush 
+\i (68:51:33) done 
+\i (68:51:33) generaledit 
+\i (68:51:34) xdehilite 
+\i (68:51:34) xname_flush 
+\i (68:51:34) done 
+\i (68:51:34) generaledit 
+\i (68:53:52) xhilite 
+\i (68:53:52) xname_flush 
+\i (68:53:52) done 
+\i (68:53:52) generaledit 
+\i (68:53:53) xdehilite 
+\i (68:53:53) xname_flush 
+\i (68:53:53) done 
+\i (68:53:53) generaledit 
+\i (68:53:54) xhilite 
+\i (68:53:54) xname_flush 
+\i (68:53:54) done 
+\i (68:53:54) generaledit 
+\i (68:55:46) xhilite 
+\i (68:55:46) xname_flush 
+\i (68:55:46) done 
+\i (68:55:46) generaledit 
+\i (68:55:47) xdehilite 
+\i (68:55:47) xname_flush 
+\i (68:55:47) done 
+\i (68:55:47) generaledit 
+\i (68:55:48) xhilite 
+\i (68:55:48) xname_flush 
+\i (68:55:48) done 
+\i (68:55:48) generaledit 
+\i (68:57:05) xhilite 
+\i (68:57:05) xname_flush 
+\i (68:57:05) done 
+\i (68:57:05) generaledit 
+\i (68:57:07) xdehilite 
+\i (68:57:07) xname_flush 
+\i (68:57:07) done 
+\i (68:57:07) generaledit 
+\i (68:58:49) xhilite 
+\i (68:58:49) xname_flush 
+\i (68:58:49) done 
+\i (68:58:49) generaledit 
+\i (68:58:56) xdehilite 
+\i (68:58:56) xname_flush 
+\i (68:58:56) done 
+\i (68:58:56) generaledit 
+\i (68:59:00) xhilite 
+\i (68:59:01) xname_flush 
+\i (68:59:01) done 
+\i (68:59:01) generaledit 
+\i (68:59:03) xdehilite 
+\i (68:59:03) xname_flush 
+\i (68:59:03) done 
+\i (68:59:03) generaledit 
+\i (68:59:06) xhilite 
+\i (68:59:06) xname_flush 
+\i (68:59:06) done 
+\i (68:59:06) generaledit 
+\i (68:59:08) xdehilite 
+\i (68:59:08) xname_flush 
+\i (68:59:08) done 
+\i (68:59:08) generaledit 
+\i (68:59:14) xhilite 
+\i (68:59:14) xname_flush 
+\i (68:59:14) done 
+\i (68:59:14) generaledit 
+\i (68:59:16) xdehilite 
+\i (68:59:17) xname_flush 
+\i (68:59:17) done 
+\i (68:59:17) generaledit 
+\i (68:59:17) xhilite 
+\i (68:59:17) xname_flush 
+\i (68:59:17) done 
+\i (68:59:17) generaledit 
+\i (68:59:27) xdehilite 
+\i (68:59:27) xname_flush 
+\i (68:59:27) done 
+\i (68:59:27) generaledit 
+\i (68:59:28) xhilite 
+\i (68:59:28) xname_flush 
+\i (68:59:28) done 
+\i (68:59:28) generaledit 
+\i (68:59:28) xdehilite 
+\i (68:59:28) xname_flush 
+\i (68:59:28) done 
+\i (68:59:28) generaledit 
+\i (68:59:29) xhilite 
+\i (68:59:29) xname_flush 
+\i (68:59:29) done 
+\i (68:59:29) generaledit 
+\i (68:59:37) xdehilite 
+\i (68:59:38) xname_flush 
+\i (68:59:38) done 
+\i (68:59:38) generaledit 
+\i (68:59:42) xhilite 
+\i (68:59:42) xname_flush 
+\i (68:59:42) done 
+\i (68:59:42) generaledit 
+\i (68:59:43) xdehilite 
+\i (68:59:43) xname_flush 
+\i (68:59:43) done 
+\i (68:59:43) xhilite 
+\i (68:59:43) xname_flush 
+\i (68:59:43) done 
+\i (68:59:43) generaledit 
+\i (68:59:46) xdehilite 
+\i (68:59:46) xname_flush 
+\i (68:59:46) done 
+\i (68:59:46) generaledit 
+\i (68:59:48) xhilite 
+\i (68:59:48) xname_flush 
+\i (68:59:48) done 
+\i (68:59:48) generaledit 
+\i (68:59:50) xdehilite 
+\i (68:59:50) xname_flush 
+\i (68:59:50) done 
+\i (68:59:50) generaledit 
+\i (68:59:51) xhilite 
+\i (68:59:51) xname_flush 
+\i (68:59:51) done 
+\i (68:59:51) generaledit 
+\i (69:00:00) xdehilite 
+\i (69:00:00) xname_flush 
+\i (69:00:00) done 
+\i (69:00:00) generaledit 
+\i (69:00:09) xhilite 
+\i (69:00:09) xname_flush 
+\i (69:00:09) done 
+\i (69:00:09) generaledit 
+\i (69:00:12) xdehilite 
+\i (69:00:12) xname_flush 
+\i (69:00:12) done 
+\i (69:00:12) generaledit 
+\i (69:00:18) xhilite 
+\i (69:00:18) xname_flush 
+\i (69:00:18) done 
+\i (69:00:18) generaledit 
+\i (69:00:19) xdehilite 
+\i (69:00:19) xname_flush 
+\i (69:00:19) done 
+\i (69:00:19) generaledit 
+\i (69:00:20) xhilite 
+\i (69:00:20) xname_flush 
+\i (69:00:20) done 
+\i (69:00:20) generaledit 
+\i (69:00:26) xdehilite 
+\i (69:00:26) xname_flush 
+\i (69:00:26) done 
+\i (69:00:26) generaledit 
+\i (69:00:26) xhilite 
+\i (69:00:27) xname_flush 
+\i (69:00:27) done 
+\i (69:00:27) generaledit 
+\i (69:00:34) xdehilite 
+\i (69:00:34) xname_flush 
+\i (69:00:34) done 
+\i (69:00:34) generaledit 
+\i (69:00:41) xhilite 
+\i (69:00:41) xname_flush 
+\i (69:00:41) done 
+\i (69:00:41) generaledit 
+\i (69:00:42) xdehilite 
+\i (69:00:42) xname_flush 
+\i (69:00:42) done 
+\i (69:00:42) xhilite 
+\i (69:00:42) xname_flush 
+\i (69:00:42) done 
+\i (69:00:42) generaledit 
+\i (69:00:44) xdehilite 
+\i (69:00:44) xname_flush 
+\i (69:00:44) done 
+\i (69:00:44) generaledit 
+\i (69:00:50) xdehilite 
+\i (69:00:50) xname_flush 
+\i (69:00:50) done 
+\i (69:00:50) generaledit 
+\i (69:00:52) xdehilite 
+\i (69:00:52) xname_flush 
+\i (69:00:52) done 
+\i (69:00:52) generaledit 
+\i (69:00:56) xhilite 
+\i (69:00:56) xname_flush 
+\i (69:00:56) done 
+\i (69:00:56) generaledit 
+\i (69:00:57) xdehilite 
+\i (69:00:57) xname_flush 
+\i (69:00:57) done 
+\i (69:00:57) generaledit 
+\i (69:01:03) xhilite 
+\i (69:01:03) xname_flush 
+\i (69:01:03) done 
+\i (69:01:03) generaledit 
+\i (69:01:05) xdehilite 
+\i (69:01:05) xname_flush 
+\i (69:01:05) done 
+\i (69:01:05) generaledit 
+\i (69:01:06) xhilite 
+\i (69:01:06) xname_flush 
+\i (69:01:06) done 
+\i (69:01:06) generaledit 
+\i (69:01:09) xdehilite 
+\i (69:01:09) xname_flush 
+\i (69:01:09) done 
+\i (69:01:09) xhilite 
+\i (69:01:09) xname_flush 
+\i (69:01:09) done 
+\i (69:01:09) generaledit 
+\i (69:01:11) xdehilite 
+\i (69:01:11) xname_flush 
+\i (69:01:11) done 
+\i (69:01:11) xhilite 
+\i (69:01:11) xname_flush 
+\i (69:01:11) done 
+\i (69:01:11) generaledit 
+\i (69:01:13) xdehilite 
+\i (69:01:13) xname_flush 
+\i (69:01:13) done 
+\i (69:01:13) xhilite 
+\i (69:01:13) xname_flush 
+\i (69:01:13) done 
+\i (69:01:13) generaledit 
+\i (69:01:16) xdehilite 
+\i (69:01:16) xname_flush 
+\i (69:01:16) done 
+\i (69:01:16) generaledit 
+\i (69:01:19) xhilite 
+\i (69:01:19) xname_flush 
+\i (69:01:19) done 
+\i (69:01:19) generaledit 
+\i (69:01:24) xdehilite 
+\i (69:01:24) xname_flush 
+\i (69:01:24) done 
+\i (69:01:24) generaledit 
+\i (69:01:26) xhilite 
+\i (69:01:26) xname_flush 
+\i (69:01:26) done 
+\i (69:01:26) generaledit 
+\i (69:01:29) xdehilite 
+\i (69:01:29) xname_flush 
+\i (69:01:29) done 
+\i (69:01:29) generaledit 
+\i (69:01:32) xhilite 
+\i (69:01:32) xname_flush 
+\i (69:01:32) done 
+\i (69:01:32) generaledit 
+\i (69:01:34) xdehilite 
+\i (69:01:34) xname_flush 
+\i (69:01:34) done 
+\i (69:01:34) xhilite 
+\i (69:01:34) xname_flush 
+\i (69:01:34) done 
+\i (69:01:34) generaledit 
+\i (69:01:35) xdehilite 
+\i (69:01:35) xname_flush 
+\i (69:01:35) done 
+\i (69:01:35) xhilite 
+\i (69:01:35) xname_flush 
+\i (69:01:35) done 
+\i (69:01:35) generaledit 
+\i (69:01:36) xdehilite 
+\i (69:01:36) xname_flush 
+\i (69:01:36) done 
+\i (69:01:36) generaledit 
+\i (69:02:07) xhilite 
+\i (69:02:07) xname_flush 
+\i (69:02:07) done 
+\i (69:02:07) generaledit 
+\i (69:02:08) xdehilite 
+\i (69:02:08) xname_flush 
+\i (69:02:08) done 
+\i (69:02:08) xhilite 
+\i (69:02:08) xname_flush 
+\i (69:02:08) done 
+\i (69:02:08) generaledit 
+\i (69:02:10) xdehilite 
+\i (69:02:10) xname_flush 
+\i (69:02:10) done 
+\i (69:02:10) generaledit 
+\i (69:03:51) xhilite 
+\i (69:03:51) xname_flush 
+\i (69:03:51) done 
+\i (69:03:51) generaledit 
+\i (69:03:52) xdehilite 
+\i (69:03:52) xname_flush 
+\i (69:03:52) done 
+\i (69:03:52) xhilite 
+\i (69:03:52) xname_flush 
+\i (69:03:52) done 
+\i (69:03:52) generaledit 
+\i (69:03:56) xdehilite 
+\i (69:03:56) xname_flush 
+\i (69:03:56) done 
+\i (69:03:56) generaledit 
+\i (69:04:05) xhilite 
+\i (69:04:05) xname_flush 
+\i (69:04:05) done 
+\i (69:04:05) generaledit 
+\i (69:04:05) xdehilite 
+\i (69:04:05) xname_flush 
+\i (69:04:05) done 
+\i (69:04:05) xhilite 
+\i (69:04:05) xname_flush 
+\i (69:04:05) done 
+\i (69:04:05) generaledit 
+\i (69:05:27) xhilite 
+\i (69:05:27) xname_flush 
+\i (69:05:27) done 
+\i (69:05:27) generaledit 
+\i (69:05:34) xdehilite 
+\i (69:05:34) xname_flush 
+\i (69:05:34) done 
+\i (69:05:34) generaledit 
+\i (69:05:35) xhilite 
+\i (69:05:35) xname_flush 
+\i (69:05:35) done 
+\i (69:05:35) generaledit 
+\i (69:05:36) xdehilite 
+\i (69:05:36) xname_flush 
+\i (69:05:36) done 
+\i (69:05:36) generaledit 
+\i (69:06:29) xhilite 
+\i (69:06:29) xname_flush 
+\i (69:06:29) done 
+\i (69:06:29) generaledit 
+\i (69:06:30) xdehilite 
+\i (69:06:30) xname_flush 
+\i (69:06:30) done 
+\i (69:06:30) xhilite 
+\i (69:06:30) xname_flush 
+\i (69:06:30) done 
+\i (69:06:30) generaledit 
+\i (69:06:32) xdehilite 
+\i (69:06:32) xname_flush 
+\i (69:06:32) done 
+\i (69:06:32) generaledit 
+\i (69:06:36) xdehilite 
+\i (69:06:36) xname_flush 
+\i (69:06:36) done 
+\i (69:06:36) generaledit 
+\i (69:07:03) xhilite 
+\i (69:07:03) xname_flush 
+\i (69:07:03) done 
+\i (69:07:03) generaledit 
+\i (69:07:04) xdehilite 
+\i (69:07:04) xname_flush 
+\i (69:07:04) done 
+\i (69:07:04) generaledit 
+\i (69:07:05) xhilite 
+\i (69:07:05) xname_flush 
+\i (69:07:05) done 
+\i (69:07:05) generaledit 
+\i (69:07:07) xdehilite 
+\i (69:07:07) xname_flush 
+\i (69:07:07) done 
+\i (69:07:07) generaledit 
+\i (69:07:12) xdehilite 
+\i (69:07:12) xname_flush 
+\i (69:07:12) done 
+\i (69:07:12) generaledit 
+\i (69:07:18) xdehilite 
+\i (69:07:18) xname_flush 
+\i (69:07:18) done 
+\i (69:07:18) generaledit 
+\i (69:07:20) xhilite 
+\i (69:07:20) xname_flush 
+\i (69:07:20) done 
+\i (69:07:20) generaledit 
+\i (69:07:21) xdehilite 
+\i (69:07:21) xname_flush 
+\i (69:07:21) done 
+\i (69:07:21) xhilite 
+\i (69:07:21) xname_flush 
+\i (69:07:21) done 
+\i (69:07:21) generaledit 
+\i (69:07:23) xdehilite 
+\i (69:07:23) xname_flush 
+\i (69:07:23) done 
+\i (69:07:23) generaledit 
+\i (69:07:23) xhilite 
+\i (69:07:23) xname_flush 
+\i (69:07:23) done 
+\i (69:07:23) generaledit 
+\i (69:07:27) xhilite 
+\i (69:07:27) xname_flush 
+\i (69:07:27) done 
+\i (69:07:27) generaledit 
+\i (69:07:28) xdehilite 
+\i (69:07:28) xname_flush 
+\i (69:07:28) done 
+\i (69:07:28) xhilite 
+\i (69:07:28) xname_flush 
+\i (69:07:28) done 
+\i (69:07:28) generaledit 
+\i (69:07:31) xdehilite 
+\i (69:07:31) xname_flush 
+\i (69:07:31) done 
+\i (69:07:31) generaledit 
+\i (69:07:32) xhilite 
+\i (69:07:32) xname_flush 
+\i (69:07:32) done 
+\i (69:07:32) generaledit 
+\i (69:07:33) xdehilite 
+\i (69:07:33) xname_flush 
+\i (69:07:33) done 
+\i (69:07:33) generaledit 
+\i (69:07:37) xhilite 
+\i (69:07:37) xname_flush 
+\i (69:07:37) done 
+\i (69:07:37) generaledit 
+\i (69:07:38) xdehilite 
+\i (69:07:38) xname_flush 
+\i (69:07:38) done 
+\i (69:07:38) xhilite 
+\i (69:07:38) xname_flush 
+\i (69:07:38) done 
+\i (69:07:38) generaledit 
+\i (69:07:41) xdehilite 
+\i (69:07:41) xname_flush 
+\i (69:07:41) done 
+\i (69:07:41) generaledit 
+\i (69:07:42) xhilite 
+\i (69:07:42) xname_flush 
+\i (69:07:42) done 
+\i (69:07:42) generaledit 
+\i (69:07:42) xdehilite 
+\i (69:07:42) xname_flush 
+\i (69:07:42) done 
+\i (69:07:43) generaledit 
+\i (69:07:43) xhilite 
+\i (69:07:44) xname_flush 
+\i (69:07:44) done 
+\i (69:07:44) generaledit 
+\i (69:07:46) xdehilite 
+\i (69:07:46) xname_flush 
+\i (69:07:46) done 
+\i (69:07:46) generaledit 
+\i (69:07:50) xhilite 
+\i (69:07:50) xname_flush 
+\i (69:07:50) done 
+\i (69:07:50) generaledit 
+\i (69:07:51) xdehilite 
+\i (69:07:51) xname_flush 
+\i (69:07:51) done 
+\i (69:07:51) generaledit 
+\i (69:09:22) xhilite 
+\i (69:09:22) xname_flush 
+\i (69:09:22) done 
+\i (69:09:22) generaledit 
+\i (69:09:23) xdehilite 
+\i (69:09:23) xname_flush 
+\i (69:09:23) done 
+\i (69:09:23) generaledit 
+\i (69:09:38) xdehilite 
+\i (69:09:38) xname_flush 
+\i (69:09:38) done 
+\i (69:09:38) generaledit 
+\i (69:09:41) xdehilite 
+\i (69:09:41) xname_flush 
+\i (69:09:41) done 
+\i (69:09:41) generaledit 
+\i (69:09:47) xhilite 
+\i (69:09:47) xname_flush 
+\i (69:09:47) done 
+\i (69:09:47) generaledit 
+\i (69:09:49) xdehilite 
+\i (69:09:49) xname_flush 
+\i (69:09:49) done 
+\i (69:09:49) generaledit 
+\i (69:09:50) xhilite 
+\i (69:09:50) xname_flush 
+\i (69:09:50) done 
+\i (69:09:50) generaledit 
+\i (69:09:54) xdehilite 
+\i (69:09:54) xname_flush 
+\i (69:09:54) done 
+\i (69:09:54) generaledit 
+\i (69:10:20) xhilite 
+\i (69:10:20) xname_flush 
+\i (69:10:20) done 
+\i (69:10:20) generaledit 
+\i (69:10:24) xdehilite 
+\i (69:10:24) xname_flush 
+\i (69:10:24) done 
+\i (69:10:24) generaledit 
+\i (69:10:27) xhilite 
+\i (69:10:27) xname_flush 
+\i (69:10:27) done 
+\i (69:10:27) generaledit 
+\i (69:10:37) xdehilite 
+\i (69:10:37) xname_flush 
+\i (69:10:37) done 
+\i (69:10:37) xhilite 
+\i (69:10:37) xname_flush 
+\i (69:10:37) done 
+\i (69:10:37) generaledit 
+\i (69:10:37) xdehilite 
+\i (69:10:37) xname_flush 
+\i (69:10:37) done 
+\i (69:10:37) xhilite 
+\i (69:10:37) xname_flush 
+\i (69:10:37) done 
+\i (69:10:37) generaledit 
+\i (69:10:38) xdehilite 
+\i (69:10:38) xname_flush 
+\i (69:10:38) done 
+\i (69:10:38) generaledit 
+\i (69:10:51) xhilite 
+\i (69:10:51) xname_flush 
+\i (69:10:51) done 
+\i (69:10:51) generaledit 
+\i (69:10:52) xdehilite 
+\i (69:10:52) xname_flush 
+\i (69:10:52) done 
+\i (69:10:52) xhilite 
+\i (69:10:52) xname_flush 
+\i (69:10:52) done 
+\i (69:10:52) generaledit 
+\i (69:10:52) xdehilite 
+\i (69:10:52) xname_flush 
+\i (69:10:52) done 
+\i (69:10:52) generaledit 
+\i (69:10:57) xhilite 
+\i (69:10:57) xname_flush 
+\i (69:10:57) done 
+\i (69:10:57) generaledit 
+\i (69:10:58) xdehilite 
+\i (69:10:58) xname_flush 
+\i (69:10:58) done 
+\i (69:10:58) generaledit 
+\i (69:11:02) xhilite 
+\i (69:11:02) xname_flush 
+\i (69:11:02) done 
+\i (69:11:02) generaledit 
+\i (69:11:03) xdehilite 
+\i (69:11:03) xname_flush 
+\i (69:11:03) done 
+\i (69:11:03) generaledit 
+\i (69:11:07) xdehilite 
+\i (69:11:07) xname_flush 
+\i (69:11:07) done 
+\i (69:11:08) generaledit 
+\i (69:11:28) xhilite 
+\i (69:11:28) xname_flush 
+\i (69:11:28) done 
+\i (69:11:28) generaledit 
+\i (69:11:30) xdehilite 
+\i (69:11:30) xname_flush 
+\i (69:11:30) done 
+\i (69:11:30) generaledit 
+\i (69:11:32) xhilite 
+\i (69:11:32) xname_flush 
+\i (69:11:32) done 
+\i (69:11:32) generaledit 
+\i (69:11:33) xdehilite 
+\i (69:11:33) xname_flush 
+\i (69:11:33) done 
+\i (69:11:33) xhilite 
+\i (69:11:33) xname_flush 
+\i (69:11:33) done 
+\i (69:11:33) generaledit 
+\i (69:11:34) xdehilite 
+\i (69:11:34) xname_flush 
+\i (69:11:34) done 
+\i (69:11:34) generaledit 
+\i (69:12:06) xhilite 
+\i (69:12:06) xname_flush 
+\i (69:12:06) done 
+\i (69:12:06) generaledit 
+\i (69:12:07) xdehilite 
+\i (69:12:07) xname_flush 
+\i (69:12:07) done 
+\i (69:12:07) generaledit 
+\i (69:12:10) xhilite 
+\i (69:12:10) xname_flush 
+\i (69:12:10) done 
+\i (69:12:10) generaledit 
+\i (69:12:11) xdehilite 
+\i (69:12:11) xname_flush 
+\i (69:12:11) done 
+\i (69:12:11) xhilite 
+\i (69:12:11) xname_flush 
+\i (69:12:11) done 
+\i (69:12:11) generaledit 
+\i (69:12:13) xdehilite 
+\i (69:12:13) xname_flush 
+\i (69:12:13) done 
+\i (69:12:13) generaledit 
+\i (69:12:14) xhilite 
+\i (69:12:14) xname_flush 
+\i (69:12:14) done 
+\i (69:12:14) generaledit 
+\i (69:12:15) xdehilite 
+\i (69:12:15) xname_flush 
+\i (69:12:15) done 
+\i (69:12:15) generaledit 
+\i (69:13:03) xhilite 
+\i (69:13:03) xname_flush 
+\i (69:13:03) done 
+\i (69:13:03) generaledit 
+\i (69:13:07) xdehilite 
+\i (69:13:07) xname_flush 
+\i (69:13:07) done 
+\i (69:13:07) generaledit 
+\i (69:13:46) xhilite 
+\i (69:13:46) xname_flush 
+\i (69:13:46) done 
+\i (69:13:46) generaledit 
+\i (69:13:49) xdehilite 
+\i (69:13:49) xname_flush 
+\i (69:13:49) done 
+\i (69:13:49) generaledit 
+\i (69:16:01) xhilite 
+\i (69:16:01) xname_flush 
+\i (69:16:01) done 
+\i (69:16:01) generaledit 
+\i (69:16:03) xdehilite 
+\i (69:16:03) xname_flush 
+\i (69:16:03) done 
+\i (69:16:03) generaledit 
+\i (69:16:14) xhilite 
+\i (69:16:14) xname_flush 
+\i (69:16:14) done 
+\i (69:16:14) generaledit 
+\i (69:16:34) xhilite 
+\i (69:16:34) xname_flush 
+\i (69:16:34) done 
+\i (69:16:34) generaledit 
+\i (69:16:36) xdehilite 
+\i (69:16:36) xname_flush 
+\i (69:16:36) done 
+\i (69:16:36) generaledit 
+\i (69:16:42) xhilite 
+\i (69:16:42) xname_flush 
+\i (69:16:42) done 
+\i (69:16:42) generaledit 
+\i (69:16:47) xdehilite 
+\i (69:16:47) xname_flush 
+\i (69:16:47) done 
+\i (69:16:47) generaledit 
+\i (69:16:50) xdehilite 
+\i (69:16:50) xname_flush 
+\i (69:16:50) done 
+\i (69:16:50) generaledit 
+\i (69:16:59) xhilite 
+\i (69:16:59) xname_flush 
+\i (69:16:59) done 
+\i (69:16:59) generaledit 
+\i (69:17:01) xdehilite 
+\i (69:17:01) xname_flush 
+\i (69:17:01) done 
+\i (69:17:01) generaledit 
+\i (69:17:06) xhilite 
+\i (69:17:06) xname_flush 
+\i (69:17:06) done 
+\i (69:17:06) generaledit 
+\i (69:17:09) xdehilite 
+\i (69:17:10) xname_flush 
+\i (69:17:10) done 
+\i (69:17:10) generaledit 
+\i (69:17:13) xdehilite 
+\i (69:17:13) xname_flush 
+\i (69:17:13) done 
+\i (69:17:13) generaledit 
+\i (69:17:19) xdehilite 
+\i (69:17:19) xname_flush 
+\i (69:17:19) done 
+\i (69:17:19) generaledit 
+\i (69:17:22) xhilite 
+\i (69:17:22) xname_flush 
+\i (69:17:22) done 
+\i (69:17:22) generaledit 
+\i (69:17:31) xhilite 
+\i (69:17:31) xname_flush 
+\i (69:17:31) done 
+\i (69:17:31) generaledit 
+\i (69:17:33) xdehilite 
+\i (69:17:33) xname_flush 
+\i (69:17:33) done 
+\i (69:17:33) generaledit 
+\i (69:17:37) xdehilite 
+\i (69:17:37) xname_flush 
+\i (69:17:37) done 
+\i (69:17:37) generaledit 
+\i (69:17:41) xdehilite 
+\i (69:17:41) xname_flush 
+\i (69:17:41) done 
+\i (69:17:41) generaledit 
+\i (69:18:33) xhilite 
+\i (69:18:34) xname_flush 
+\i (69:18:34) done 
+\i (69:18:34) generaledit 
+\i (69:18:35) xdehilite 
+\i (69:18:35) xname_flush 
+\i (69:18:35) done 
+\i (69:18:35) generaledit 
+\i (69:18:35) xhilite 
+\i (69:18:35) xname_flush 
+\i (69:18:35) done 
+\i (69:18:35) generaledit 
+\i (69:18:39) xdehilite 
+\i (69:18:39) xname_flush 
+\i (69:18:39) done 
+\i (69:18:39) generaledit 
+\i (69:18:41) xhilite 
+\i (69:18:41) xname_flush 
+\i (69:18:41) done 
+\i (69:18:41) generaledit 
+\i (69:18:42) xdehilite 
+\i (69:18:42) xname_flush 
+\i (69:18:42) done 
+\i (69:18:42) xhilite 
+\i (69:18:42) xname_flush 
+\i (69:18:42) done 
+\i (69:18:42) generaledit 
+\i (69:18:43) xdehilite 
+\i (69:18:43) xname_flush 
+\i (69:18:43) done 
+\i (69:18:43) generaledit 
+\i (69:18:44) xhilite 
+\i (69:18:44) xname_flush 
+\i (69:18:44) done 
+\i (69:18:44) generaledit 
+\i (69:18:45) xdehilite 
+\i (69:18:45) xname_flush 
+\i (69:18:45) done 
+\i (69:18:45) generaledit 
+\i (69:18:49) xhilite 
+\i (69:18:49) xname_flush 
+\i (69:18:49) done 
+\i (69:18:49) generaledit 
+\i (69:18:51) xdehilite 
+\i (69:18:51) xname_flush 
+\i (69:18:51) done 
+\i (69:18:51) generaledit 
+\i (69:18:52) xhilite 
+\i (69:18:52) xname_flush 
+\i (69:18:52) done 
+\i (69:18:52) generaledit 
+\i (69:18:54) xdehilite 
+\i (69:18:54) xname_flush 
+\i (69:18:54) done 
+\i (69:18:54) generaledit 
+\i (69:18:56) xhilite 
+\i (69:18:56) xname_flush 
+\i (69:18:56) done 
+\i (69:18:56) generaledit 
+\i (69:18:57) xdehilite 
+\i (69:18:57) xname_flush 
+\i (69:18:57) done 
+\i (69:18:57) xhilite 
+\i (69:18:57) xname_flush 
+\i (69:18:57) done 
+\i (69:18:57) generaledit 
+\i (69:18:58) xdehilite 
+\i (69:18:58) xname_flush 
+\i (69:18:58) done 
+\i (69:18:58) generaledit 
+\i (69:18:59) xhilite 
+\i (69:18:59) xname_flush 
+\i (69:18:59) done 
+\i (69:18:59) generaledit 
+\i (69:18:59) xdehilite 
+\i (69:18:59) xname_flush 
+\i (69:18:59) done 
+\i (69:18:59) generaledit 
+\i (69:19:02) xhilite 
+\i (69:19:02) xname_flush 
+\i (69:19:02) done 
+\i (69:19:02) generaledit 
+\i (69:19:07) xdehilite 
+\i (69:19:07) xname_flush 
+\i (69:19:07) done 
+\i (69:19:07) generaledit 
+\i (69:19:16) xhilite 
+\i (69:19:16) xname_flush 
+\i (69:19:16) done 
+\i (69:19:16) generaledit 
+\i (69:19:18) xhilite 
+\i (69:19:18) xname_flush 
+\i (69:19:18) done 
+\i (69:19:18) generaledit 
+\i (69:19:19) xdehilite 
+\i (69:19:19) xname_flush 
+\i (69:19:19) done 
+\i (69:19:19) xhilite 
+\i (69:19:19) xname_flush 
+\i (69:19:19) done 
+\i (69:19:19) generaledit 
+\i (69:19:21) xdehilite 
+\i (69:19:21) xname_flush 
+\i (69:19:21) done 
+\i (69:19:21) xhilite 
+\i (69:19:21) xname_flush 
+\i (69:19:21) done 
+\i (69:19:21) generaledit 
+\i (69:19:24) xdehilite 
+\i (69:19:24) xname_flush 
+\i (69:19:24) done 
+\i (69:19:24) generaledit 
+\i (69:19:25) xhilite 
+\i (69:19:25) xname_flush 
+\i (69:19:25) done 
+\i (69:19:25) generaledit 
+\i (69:19:26) xdehilite 
+\i (69:19:26) xname_flush 
+\i (69:19:26) done 
+\i (69:19:26) generaledit 
+\i (69:19:40) xhilite 
+\i (69:19:40) xname_flush 
+\i (69:19:40) done 
+\i (69:19:40) generaledit 
+\i (69:19:41) xdehilite 
+\i (69:19:41) xname_flush 
+\i (69:19:41) done 
+\i (69:19:41) xhilite 
+\i (69:19:41) xname_flush 
+\i (69:19:41) done 
+\i (69:19:41) generaledit 
+\i (69:19:44) xdehilite 
+\i (69:19:44) xname_flush 
+\i (69:19:44) done 
+\i (69:19:44) generaledit 
+\i (69:19:49) xdehilite 
+\i (69:19:49) xname_flush 
+\i (69:19:49) done 
+\i (69:19:49) generaledit 
+\i (69:19:55) xdehilite 
+\i (69:19:55) xname_flush 
+\i (69:19:55) done 
+\i (69:19:55) generaledit 
+\i (69:20:11) xdehilite 
+\i (69:20:11) xname_flush 
+\i (69:20:11) done 
+\i (69:20:11) generaledit 
+\i (69:20:47) xhilite 
+\i (69:20:47) xname_flush 
+\i (69:20:47) done 
+\i (69:20:47) generaledit 
+\i (69:20:48) xdehilite 
+\i (69:20:48) xname_flush 
+\i (69:20:48) done 
+\i (69:20:48) xhilite 
+\i (69:20:48) xname_flush 
+\i (69:20:48) done 
+\i (69:20:48) generaledit 
+\i (69:20:50) xdehilite 
+\i (69:20:50) xname_flush 
+\i (69:20:50) done 
+\i (69:20:50) generaledit 
+\i (69:20:51) xhilite 
+\i (69:20:51) xname_flush 
+\i (69:20:51) done 
+\i (69:20:51) generaledit 
+\i (69:20:52) xdehilite 
+\i (69:20:52) xname_flush 
+\i (69:20:52) done 
+\i (69:20:52) xhilite 
+\i (69:20:52) xname_flush 
+\i (69:20:52) done 
+\i (69:20:52) generaledit 
+\i (69:20:54) xdehilite 
+\i (69:20:54) xname_flush 
+\i (69:20:54) done 
+\i (69:20:54) generaledit 
+\i (69:20:55) xhilite 
+\i (69:20:55) xname_flush 
+\i (69:20:55) done 
+\i (69:20:55) generaledit 
+\i (69:20:56) xdehilite 
+\i (69:20:56) xname_flush 
+\i (69:20:56) done 
+\i (69:20:56) generaledit 
+\i (69:20:57) xhilite 
+\i (69:20:57) xname_flush 
+\i (69:20:57) done 
+\i (69:20:57) generaledit 
+\i (69:20:58) xdehilite 
+\i (69:20:58) xname_flush 
+\i (69:20:58) done 
+\i (69:20:59) generaledit 
+\i (69:21:00) xhilite 
+\i (69:21:00) xname_flush 
+\i (69:21:00) done 
+\i (69:21:00) generaledit 
+\i (69:21:00) xdehilite 
+\i (69:21:00) xname_flush 
+\i (69:21:00) done 
+\i (69:21:00) xhilite 
+\i (69:21:00) xname_flush 
+\i (69:21:00) done 
+\i (69:21:00) generaledit 
+\i (69:21:01) xdehilite 
+\i (69:21:01) xname_flush 
+\i (69:21:01) done 
+\i (69:21:01) generaledit 
+\i (69:21:02) xhilite 
+\i (69:21:02) xname_flush 
+\i (69:21:02) done 
+\i (69:21:03) generaledit 
+\i (69:21:03) xdehilite 
+\i (69:21:03) xname_flush 
+\i (69:21:03) done 
+\i (69:21:03) generaledit 
+\i (69:22:08) xhilite 
+\i (69:22:08) xname_flush 
+\i (69:22:08) done 
+\i (69:22:08) generaledit 
+\i (69:22:09) xdehilite 
+\i (69:22:09) xname_flush 
+\i (69:22:09) done 
+\i (69:22:09) generaledit 
+\i (69:22:10) xhilite 
+\i (69:22:10) xname_flush 
+\i (69:22:10) done 
+\i (69:22:10) generaledit 
+\i (69:22:15) xdehilite 
+\i (69:22:15) xname_flush 
+\i (69:22:15) done 
+\i (69:22:15) generaledit 
+\i (69:22:16) xhilite 
+\i (69:22:16) xname_flush 
+\i (69:22:16) done 
+\i (69:22:16) generaledit 
+\i (69:22:17) xdehilite 
+\i (69:22:17) xname_flush 
+\i (69:22:17) done 
+\i (69:22:17) generaledit 
+\i (69:22:18) xhilite 
+\i (69:22:18) xname_flush 
+\i (69:22:18) done 
+\i (69:22:18) generaledit 
+\i (69:22:19) xdehilite 
+\i (69:22:19) xname_flush 
+\i (69:22:19) done 
+\i (69:22:19) xhilite 
+\i (69:22:19) xname_flush 
+\i (69:22:19) done 
+\i (69:22:19) generaledit 
+\i (69:22:23) xdehilite 
+\i (69:22:23) xname_flush 
+\i (69:22:23) done 
+\i (69:22:23) generaledit 
+\i (69:22:25) xhilite 
+\i (69:22:26) xname_flush 
+\i (69:22:26) done 
+\i (69:22:26) generaledit 
+\i (69:22:27) xdehilite 
+\i (69:22:27) xname_flush 
+\i (69:22:27) done 
+\i (69:22:27) generaledit 
+\i (69:23:05) xhilite 
+\i (69:23:05) xname_flush 
+\i (69:23:05) done 
+\i (69:23:05) generaledit 
+\i (69:23:18) xhilite 
+\i (69:23:18) xname_flush 
+\i (69:23:18) done 
+\i (69:23:18) generaledit 
+\i (69:23:27) xhilite 
+\i (69:23:27) xname_flush 
+\i (69:23:27) done 
+\i (69:23:27) generaledit 
+\i (69:23:27) xdehilite 
+\i (69:23:27) xname_flush 
+\i (69:23:27) done 
+\i (69:23:27) generaledit 
+\i (69:23:30) xhilite 
+\i (69:23:30) xname_flush 
+\i (69:23:30) done 
+\i (69:23:30) generaledit 
+\i (69:23:31) xdehilite 
+\i (69:23:31) xname_flush 
+\i (69:23:31) done 
+\i (69:23:31) generaledit 
+\i (69:23:32) xhilite 
+\i (69:23:32) xname_flush 
+\i (69:23:32) done 
+\i (69:23:32) generaledit 
+\i (69:23:32) xdehilite 
+\i (69:23:32) xname_flush 
+\i (69:23:32) done 
+\i (69:23:33) generaledit 
+\i (69:23:52) xhilite 
+\i (69:23:52) xname_flush 
+\i (69:23:52) done 
+\i (69:23:52) generaledit 
+\i (69:23:54) xdehilite 
+\i (69:23:54) xname_flush 
+\i (69:23:54) done 
+\i (69:23:54) generaledit 
+\i (69:23:57) xdehilite 
+\i (69:23:57) xname_flush 
+\i (69:23:57) done 
+\i (69:23:57) generaledit 
+\i (69:24:00) xhilite 
+\i (69:24:00) xname_flush 
+\i (69:24:00) done 
+\i (69:24:00) generaledit 
+\i (69:24:01) xdehilite 
+\i (69:24:01) xname_flush 
+\i (69:24:01) done 
+\i (69:24:01) generaledit 
+\i (69:24:04) xhilite 
+\i (69:24:04) xname_flush 
+\i (69:24:04) done 
+\i (69:24:04) generaledit 
+\i (69:24:05) xdehilite 
+\i (69:24:05) xname_flush 
+\i (69:24:05) done 
+\i (69:24:05) generaledit 
+\i (69:24:36) xhilite 
+\i (69:24:36) xname_flush 
+\i (69:24:36) done 
+\i (69:24:36) generaledit 
+\i (69:24:37) xdehilite 
+\i (69:24:37) xname_flush 
+\i (69:24:37) done 
+\i (69:24:37) generaledit 
+\i (69:24:41) xdehilite 
+\i (69:24:41) xname_flush 
+\i (69:24:41) done 
+\i (69:24:41) generaledit 
+\i (69:24:44) xdehilite 
+\i (69:24:44) xname_flush 
+\i (69:24:44) done 
+\i (69:24:44) generaledit 
+\i (69:24:56) xhilite 
+\i (69:24:56) xname_flush 
+\i (69:24:56) done 
+\i (69:24:56) generaledit 
+\i (69:24:57) xdehilite 
+\i (69:24:57) xname_flush 
+\i (69:24:57) done 
+\i (69:24:57) xhilite 
+\i (69:24:57) xname_flush 
+\i (69:24:57) done 
+\i (69:24:57) generaledit 
+\i (69:24:58) xdehilite 
+\i (69:24:58) xname_flush 
+\i (69:24:58) done 
+\i (69:24:58) generaledit 
+\i (69:24:59) xhilite 
+\i (69:24:59) xname_flush 
+\i (69:24:59) done 
+\i (69:24:59) generaledit 
+\i (69:25:00) xdehilite 
+\i (69:25:01) xname_flush 
+\i (69:25:01) done 
+\i (69:25:01) generaledit 
+\i (69:25:02) xhilite 
+\i (69:25:02) xname_flush 
+\i (69:25:02) done 
+\i (69:25:02) generaledit 
+\i (69:25:03) xdehilite 
+\i (69:25:03) xname_flush 
+\i (69:25:03) done 
+\i (69:25:03) generaledit 
+\i (69:25:04) xhilite 
+\i (69:25:04) xname_flush 
+\i (69:25:04) done 
+\i (69:25:04) generaledit 
+\i (69:25:05) xdehilite 
+\i (69:25:05) xname_flush 
+\i (69:25:05) done 
+\i (69:25:05) generaledit 
+\i (69:25:35) xhilite 
+\i (69:25:35) xname_flush 
+\i (69:25:35) done 
+\i (69:25:35) generaledit 
+\i (69:25:36) xdehilite 
+\i (69:25:36) xname_flush 
+\i (69:25:36) done 
+\i (69:25:36) generaledit 
+\i (69:25:46) xhilite 
+\i (69:25:46) xname_flush 
+\i (69:25:46) done 
+\i (69:25:46) generaledit 
+\i (69:25:47) xdehilite 
+\i (69:25:47) xname_flush 
+\i (69:25:47) done 
+\i (69:25:47) xhilite 
+\i (69:25:47) xname_flush 
+\i (69:25:47) done 
+\i (69:25:47) generaledit 
+\i (69:25:51) xdehilite 
+\i (69:25:51) xname_flush 
+\i (69:25:51) done 
+\i (69:25:51) generaledit 
+\i (69:25:51) xhilite 
+\i (69:25:52) xname_flush 
+\i (69:25:52) done 
+\i (69:25:52) generaledit 
+\i (69:25:54) xdehilite 
+\i (69:25:54) xname_flush 
+\i (69:25:54) done 
+\i (69:25:54) generaledit 
+\i (69:25:55) xhilite 
+\i (69:25:55) xname_flush 
+\i (69:25:55) done 
+\i (69:25:55) generaledit 
+\i (69:25:56) xdehilite 
+\i (69:25:56) xname_flush 
+\i (69:25:56) done 
+\i (69:25:56) xhilite 
+\i (69:25:56) xname_flush 
+\i (69:25:56) done 
+\i (69:25:56) generaledit 
+\i (69:25:56) xdehilite 
+\i (69:25:56) xname_flush 
+\i (69:25:56) done 
+\i (69:25:56) generaledit 
+\i (69:25:59) xhilite 
+\i (69:25:59) xname_flush 
+\i (69:25:59) done 
+\i (69:25:59) generaledit 
+\i (69:26:01) xdehilite 
+\i (69:26:01) xname_flush 
+\i (69:26:01) done 
+\i (69:26:01) xhilite 
+\i (69:26:01) xname_flush 
+\i (69:26:01) done 
+\i (69:26:01) generaledit 
+\i (69:26:05) xdehilite 
+\i (69:26:05) xname_flush 
+\i (69:26:05) done 
+\i (69:26:05) generaledit 
+\i (69:26:06) xhilite 
+\i (69:26:06) xname_flush 
+\i (69:26:06) done 
+\i (69:26:06) generaledit 
+\i (69:26:07) xdehilite 
+\i (69:26:07) xname_flush 
+\i (69:26:07) done 
+\i (69:26:07) xhilite 
+\i (69:26:07) xname_flush 
+\i (69:26:07) done 
+\i (69:26:07) generaledit 
+\i (69:26:07) xdehilite 
+\i (69:26:07) xname_flush 
+\i (69:26:07) done 
+\i (69:26:07) generaledit 
+\i (69:26:18) xhilite 
+\i (69:26:19) xname_flush 
+\i (69:26:19) done 
+\i (69:26:19) generaledit 
+\i (69:26:19) xdehilite 
+\i (69:26:19) xname_flush 
+\i (69:26:19) done 
+\i (69:26:19) generaledit 
+\i (69:27:57) xhilite 
+\i (69:27:57) xname_flush 
+\i (69:27:57) done 
+\i (69:27:57) generaledit 
+\i (69:27:59) xdehilite 
+\i (69:27:59) xname_flush 
+\i (69:27:59) done 
+\i (69:27:59) generaledit 
+\i (69:28:08) xhilite 
+\i (69:28:08) xname_flush 
+\i (69:28:08) done 
+\i (69:28:08) generaledit 
+\i (69:28:10) xdehilite 
+\i (69:28:10) xname_flush 
+\i (69:28:10) done 
+\i (69:28:10) xhilite 
+\i (69:28:10) xname_flush 
+\i (69:28:10) done 
+\i (69:28:10) generaledit 
+\i (69:28:12) xdehilite 
+\i (69:28:12) xname_flush 
+\i (69:28:12) done 
+\i (69:28:12) generaledit 
+\i (69:28:13) xhilite 
+\i (69:28:13) xname_flush 
+\i (69:28:13) done 
+\i (69:28:13) generaledit 
+\i (69:28:15) xdehilite 
+\i (69:28:15) xname_flush 
+\i (69:28:15) done 
+\i (69:28:15) generaledit 
+\i (69:28:16) xhilite 
+\i (69:28:16) xname_flush 
+\i (69:28:16) done 
+\i (69:28:16) generaledit 
+\i (69:28:17) xdehilite 
+\i (69:28:17) xname_flush 
+\i (69:28:17) done 
+\i (69:28:17) generaledit 
+\i (69:28:17) xhilite 
+\i (69:28:17) xname_flush 
+\i (69:28:17) done 
+\i (69:28:17) generaledit 
+\i (69:28:17) xdehilite 
+\i (69:28:18) xname_flush 
+\i (69:28:18) done 
+\i (69:28:18) generaledit 
+\i (69:28:18) xhilite 
+\i (69:28:18) xname_flush 
+\i (69:28:18) done 
+\i (69:28:18) generaledit 
+\i (69:28:19) xdehilite 
+\i (69:28:19) xname_flush 
+\i (69:28:19) done 
+\i (69:28:19) generaledit 
+\i (69:28:19) xhilite 
+\i (69:28:19) xname_flush 
+\i (69:28:19) done 
+\i (69:28:19) generaledit 
+\i (69:28:20) xdehilite 
+\i (69:28:20) xname_flush 
+\i (69:28:20) done 
+\i (69:28:20) generaledit 
+\i (69:29:33) xhilite 
+\i (69:29:33) xname_flush 
+\i (69:29:33) done 
+\i (69:29:34) generaledit 
+\i (69:29:34) xdehilite 
+\i (69:29:34) xname_flush 
+\i (69:29:34) done 
+\i (69:29:34) generaledit 
+\i (69:29:39) xhilite 
+\i (69:29:39) xname_flush 
+\i (69:29:39) done 
+\i (69:29:39) generaledit 
+\i (69:29:41) xdehilite 
+\i (69:29:41) xname_flush 
+\i (69:29:41) done 
+\i (69:29:41) xhilite 
+\i (69:29:41) xname_flush 
+\i (69:29:41) done 
+\i (69:29:41) generaledit 
+\i (69:29:42) xdehilite 
+\i (69:29:42) xname_flush 
+\i (69:29:42) done 
+\i (69:29:42) xhilite 
+\i (69:29:42) xname_flush 
+\i (69:29:42) done 
+\i (69:29:42) generaledit 
+\i (69:29:43) xdehilite 
+\i (69:29:43) xname_flush 
+\i (69:29:43) done 
+\i (69:29:43) generaledit 
+\i (69:29:43) xhilite 
+\i (69:29:43) xname_flush 
+\i (69:29:43) done 
+\i (69:29:43) generaledit 
+\i (69:29:44) xdehilite 
+\i (69:29:44) xname_flush 
+\i (69:29:44) done 
+\i (69:29:44) generaledit 
+\i (69:30:04) xhilite 
+\i (69:30:04) xname_flush 
+\i (69:30:04) done 
+\i (69:30:04) generaledit 
+\i (69:30:05) xdehilite 
+\i (69:30:05) xname_flush 
+\i (69:30:05) done 
+\i (69:30:05) generaledit 
+\i (69:30:18) xhilite 
+\i (69:30:18) xname_flush 
+\i (69:30:18) done 
+\i (69:30:18) generaledit 
+\i (69:30:20) xhilite 
+\i (69:30:20) xname_flush 
+\i (69:30:20) done 
+\i (69:30:20) generaledit 
+\i (69:30:26) xdehilite 
+\i (69:30:26) xname_flush 
+\i (69:30:26) done 
+\i (69:30:26) generaledit 
+\i (69:30:28) xhilite 
+\i (69:30:28) xname_flush 
+\i (69:30:28) done 
+\i (69:30:28) generaledit 
+\i (69:30:34) xdehilite 
+\i (69:30:34) xname_flush 
+\i (69:30:34) done 
+\i (69:30:34) generaledit 
+\i (69:30:38) xhilite 
+\i (69:30:38) xname_flush 
+\i (69:30:38) done 
+\i (69:30:38) generaledit 
+\i (69:30:41) xdehilite 
+\i (69:30:41) xname_flush 
+\i (69:30:41) done 
+\i (69:30:41) generaledit 
+\i (69:30:46) xhilite 
+\i (69:30:46) xname_flush 
+\i (69:30:46) done 
+\i (69:30:46) generaledit 
+\i (69:30:48) xdehilite 
+\i (69:30:48) xname_flush 
+\i (69:30:48) done 
+\i (69:30:48) xhilite 
+\i (69:30:48) xname_flush 
+\i (69:30:48) done 
+\i (69:30:48) generaledit 
+\i (69:30:50) xdehilite 
+\i (69:30:50) xname_flush 
+\i (69:30:50) done 
+\i (69:30:50) xhilite 
+\i (69:30:50) xname_flush 
+\i (69:30:50) done 
+\i (69:30:50) generaledit 
+\i (69:30:55) xdehilite 
+\i (69:30:55) xname_flush 
+\i (69:30:55) done 
+\i (69:30:55) generaledit 
+\i (69:30:56) xhilite 
+\i (69:30:56) xname_flush 
+\i (69:30:56) done 
+\i (69:30:56) generaledit 
+\i (69:30:59) xdehilite 
+\i (69:30:59) xname_flush 
+\i (69:30:59) done 
+\i (69:30:59) generaledit 
+\i (69:31:02) xhilite 
+\i (69:31:02) xname_flush 
+\i (69:31:02) done 
+\i (69:31:02) generaledit 
+\i (69:31:09) xdehilite 
+\i (69:31:09) xname_flush 
+\i (69:31:09) done 
+\i (69:31:09) generaledit 
+\i (69:31:14) xhilite 
+\i (69:31:14) xname_flush 
+\i (69:31:14) done 
+\i (69:31:14) generaledit 
+\i (69:31:15) xdehilite 
+\i (69:31:15) xname_flush 
+\i (69:31:15) done 
+\i (69:31:15) generaledit 
+\i (69:31:23) xhilite 
+\i (69:31:23) xname_flush 
+\i (69:31:23) done 
+\i (69:31:23) generaledit 
+\i (69:31:24) xdehilite 
+\i (69:31:24) xname_flush 
+\i (69:31:24) done 
+\i (69:31:24) generaledit 
+\i (69:31:25) xhilite 
+\i (69:31:25) xname_flush 
+\i (69:31:25) 
