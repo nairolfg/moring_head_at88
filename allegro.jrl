@@ -1,124 +1,16 @@
-\t (00:00:05) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:05)     Journal start - Sat Oct 21 15:30:25 2017
-\t (00:00:05)         Host=FLOPC User=MGZ Pid=12072 CPUs=4
-\t (00:00:05) 
-\t (00:00:06) Opening existing design...
-\d (00:00:06) Database opened: C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd
-\t (00:00:06) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (00:00:06) trapsize 633
-\i (00:00:06) trapsize 619
-\i (00:00:06) trapsize 636
-\i (00:00:06) trapsize 534
-\i (00:00:06) trapsize 534
-\i (00:00:07) generaledit 
-\i (24:08:25) pick grid 16023.61 10594.88
-\t (24:08:25) last pick:  16024.00  10595.00
-\i (24:08:25) prepopup 16023.61 10594.88
-\i (24:08:26) pick grid 15978.78 10613.03
-\t (24:08:26) last pick:  15979.00  10613.00
-\i (24:08:26) zoom out 1 
-\i (24:08:26) setwindow pcb
-\i (24:08:26) zoom out 16086.57 10662.12
-\i (24:08:26) trapsize 1067
-\i (24:08:26) zoom out 1 
-\i (24:08:26) setwindow pcb
-\i (24:08:26) zoom out 16086.58 10662.12
-\t (24:08:26) Grids are drawn 64.00, 64.00 apart for enhanced viewability.
-\i (24:08:26) trapsize 2135
-\i (24:08:26) zoom out 1 
-\i (24:08:26) setwindow pcb
-\i (24:08:26) zoom out 16086.58 10662.12
-\i (24:08:26) trapsize 4269
-\i (24:08:26) pick grid 22174.24 10790.19
-\t (24:08:26) last pick:  22174.00  10790.00
-\i (24:08:27) pick grid dbl 22174.24 10790.19
-\t (24:08:27) last pick:  22174.00  10790.00
-\i (24:08:27) pick grid 22140.09 10764.58
-\t (24:08:27) last pick:  22140.00  10765.00
-\i (24:08:27) pick grid dbl 22140.09 10764.58
-\t (24:08:27) last pick:  22140.00  10765.00
-\i (24:08:27) pick grid 22140.09 10764.58
-\t (24:08:27) last pick:  22140.00  10765.00
-\i (24:08:27) pick grid dbl 22140.09 10764.58
-\t (24:08:27) last pick:  22140.00  10765.00
-\i (24:08:27) prepopup 20773.99 11293.94
-\i (24:08:28) pick grid 20423.93 11336.63
-\t (24:08:28) last pick:  20424.00  11337.00
-\i (24:08:29) zoom in 1 
-\i (24:08:29) setwindow pcb
-\i (24:08:29) zoom in 15471.84 12267.28
-\i (24:08:29) trapsize 2135
-\i (24:08:29) zoom in 1 
-\i (24:08:29) setwindow pcb
-\i (24:08:29) zoom in 16180.50 10713.35
-\t (24:08:29) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
-\i (24:08:29) trapsize 1067
-\i (24:08:29) zoom in 1 
-\i (24:08:29) setwindow pcb
-\i (24:08:29) zoom in 16184.77 10346.22
-\i (24:08:29) trapsize 534
-\i (24:08:32) pick grid 16772.83 10752.85
-\t (24:08:32) last pick:  16773.00  10753.00
-\i (24:12:43) roam start
-\i (24:12:43) roam y 16
-\i (24:12:43) roam x 32
-\i (24:12:43) roam y 112
-\i (24:12:43) roam y 32
-\i (24:12:43) roam x 32
-\i (24:12:43) roam y 96
-\i (24:12:43) roam x 16
-\i (24:12:43) roam y 96
-\i (24:12:43) roam y 48
-\i (24:12:43) roam x 16
-\i (24:12:43) roam y -16
-\i (24:12:44) roam y -48
-\i (24:12:44) roam x -32
-\i (24:12:44) roam y -16
-\i (24:12:44) roam x -32
-\i (24:12:44) roam y -32
-\i (24:12:44) roam x -16
-\i (24:12:44) roam y -16
-\i (24:12:44) roam x -16
-\i (24:12:44) roam y -48
-\i (24:12:44) roam y -48
-\i (24:12:44) roam x -16
-\i (24:12:44) roam y -16
-\i (24:12:44) roam y -16
-\i (24:12:44) roam y -16
-\i (24:12:44) roam y -32
-\i (24:12:44) roam y -16
-\i (24:12:44) roam y -48
-\i (24:12:44) roam y -48
-\i (24:12:44) roam y -32
-\i (24:12:44) roam y -16
-\i (24:12:45) roam y -16
-\i (24:12:45) roam y -16
-\i (24:12:45) roam y -16
-\i (24:12:45) roam y -32
-\i (24:12:45) roam y -48
-\i (24:12:45) roam y -32
-\i (24:12:45) roam end
-\i (24:26:57) roam start
-\i (24:26:57) roam y 32
-\i (24:26:57) roam y 32
-\i (24:26:57) roam x -16
-\i (24:26:57) roam y 32
-\i (24:26:57) roam y 16
-\i (24:26:57) roam y 48
-\i (24:26:58) roam y 16
-\i (24:26:58) roam y 16
-\i (24:26:58) roam y 16
-\i (24:26:58) roam y 16
-\i (24:26:58) roam y 32
-\i (24:26:58) roam y 64
-\i (24:26:58) roam y 48
-\i (24:26:58) roam end
-\i (24:47:51) roam start
-\i (24:47:52) roam x 32
-\i (24:47:52) roam y -80
-\i (24:47:52) roam y -64
-\i (24:47:52) roam x 32
-\i (24:47:52) roam y -32
-\i (24:47:52) roam end
-\i (25:37:22) exit 
-\t (25:37:22)     Journal end - Sun Oct 22 17:07:42 2017
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Mon Oct 23 16:16:43 2017
+\t (00:00:02)         Host=FLOPC User=MGZ Pid=11752 CPUs=4
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: C:/Cadence/Projects/moving_head_at88/moving_head_at88.brd
+\t (00:00:04) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:04) trapsize 633
+\i (00:00:04) trapsize 619
+\i (00:00:04) trapsize 636
+\i (00:00:04) trapsize 534
+\i (00:00:04) trapsize 534
+\i (00:00:05) generaledit 
+\i (00:00:07) new 
+\i (00:00:23) newdrawfillin "test.brd" "Board"
+\t (00:00:23)     Journal end - Mon Oct 23 16:17:03 2017
